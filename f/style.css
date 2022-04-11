@@ -1,0 +1,131 @@
+@media only screen and (max-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .profile_image {
+        height: 196px;
+        width: 140px;
+    }
+    .quattro {
+        font: 14pt/1.2 "Saira", sans-serif;
+        color: #eee;
+    }
+
+    .first_name {
+        font: 20pt/0.9 "Saira", sans-serif;
+        color: #eee;
+        display: block;
+    }
+    .last_name {
+        font: 30pt/1.0 "Saira", sans-serif;
+        color: #eee;
+        text-transform: uppercase;
+        display: block;
+    }
+    .quote {
+        font: 10pt/1.0 "Rosario", sans-serif;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .quote_signature {
+        font: 10pt/1.0 "Rosario", sans-serif;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 680px;
+    }
+    .profile_image {
+        height: 392px;
+        width: 280px;
+    }
+    .quattro {
+        font: 20pt/1.2 "Saira", sans-serif;
+        color: #eee;
+    }
+    .first_name {
+        font: 30pt/0.9 "Saira", sans-serif;
+        color: #eee;
+        display: block;
+    }
+    .last_name {
+        font: 40pt/1.0 "Saira", sans-serif;
+        color: #eee;
+        text-transform: uppercase;
+        display: block;
+    }
+    .quote, .quote_signature{
+        font: 16pt/1.0 "Rosario", sans-serif;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+
+.regular {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.normal {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.footer-div {
+    font-size: 50%;
+    border-top: 1px solid black;
+    padding-top: 4px;
+    padding-bottom: 14px;
+    margin-bottom: 14px;
+}
+
+h2 {
+    /* border-bottom: 1px solid black; */
+    font: 14pt/1.2 "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+body {
+    background-color: #2f2c2c;
+}
+
+a {
+    color: rgb(0,0,200);
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration-color: black !important;
+}
+
+code {
+    background-color: #eee;
+    padding: 3px;
+    width: 100%;
+    display: inline-block;
+}
+
+blockquote {
+    font-style: italic;
+}
