@@ -1,3 +1,9 @@
+.section {
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+
 @media only screen and (max-width: 680px) {
     #root {
         margin: 0 auto;
@@ -16,9 +22,46 @@
         font: 20pt/0.9 "Saira", sans-serif;
         color: #eee;
         display: block;
+        background-color: #612626;
     }
     .last_name {
         font: 30pt/1.0 "Saira", sans-serif;
+        color: #eee;
+        text-transform: uppercase;
+        display: block;
+    }
+    .quote, .quote_signature {
+        font: 10pt/1.0 "Rosario", sans-serif !important;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .profile_image {
+        height: 196px;
+        width: 140px;
+    }
+    .quattro {
+        font: 14pt/1.2 "Saira", sans-serif;
+        color: #eee;
+    }
+
+    .first_name {
+        font: 18pt/0.9 "Saira", sans-serif;
+        color: #eee;
+        display: block;
+        background-color: #612626;
+    }
+    .last_name {
+        font: 24pt/1.0 "Saira", sans-serif;
         color: #eee;
         text-transform: uppercase;
         display: block;
@@ -50,6 +93,8 @@
         font: 30pt/0.9 "Saira", sans-serif;
         color: #eee;
         display: block;
+        background-color: #612626;
+
     }
     .last_name {
         font: 40pt/1.0 "Saira", sans-serif;
@@ -90,6 +135,12 @@
     padding-top: 4px;
     padding-bottom: 14px;
     margin-bottom: 14px;
+
+}
+
+.footer-div span {
+    padding-top: 4px;
+    float: right;
 }
 
 h2 {

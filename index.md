@@ -3,11 +3,15 @@ permalink: /
 layout: default
 ---
 
+<div class="section">
 <img src="/f/i/gregorius-rippenstein.jpeg" class="profile_image"/>
 
+<div style="padding-left: 5%;">
 <span class="first_name">Gregorius</span>
 <span class="last_name">Rippenstein</span>
+</div>
 
+</div>
 
 International renowned artist and all-around good guy. Having gained fame with his boundless talents, Gregorius has now entered a phase of consolidation. After having been involved with many collaboration with other fabulous artists he has found his inspiration in the solitude of isolationist art. Incredibly this has transported his work and talents to yet another level of brilliance.
 
