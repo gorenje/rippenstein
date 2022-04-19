@@ -1,0 +1,18 @@
+{% assign idx = include.idx %}
+
+<div class="work">
+  <a href="{{ site.data.works[idx].url }}">
+  <div class="works_image_container">
+    <img src="{{ site.data.works[idx].image }}" class="works_image"/>
+  </div>
+
+  <div class="works_text_container">
+     <div class="row">
+    <div class="work_slogan">{{ site.data.works[idx].slogan }}</div>
+  </div>
+     <div class="row">
+    <div class="work_name">{{ site.data.works[idx].name }}</div>
+  </div>
+  </div>
+</a>
+</div>
