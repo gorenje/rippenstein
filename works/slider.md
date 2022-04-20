@@ -3,17 +3,8 @@ path: /works/slider
 layout: works
 ---
 
-<div class="worksection">
-<a href="https://gender.sldr.in">
-<img src="/f/i/slider.png" class="works_image"/>
-</a>
-
-<div style="padding-left: 5%;">
-<span class="work_name">Gender Slider</span>
-<span class="work_slogan">Track yourself without being tracked</span>
-</div>
-
-</div>
+{% assign data=site.data.works.sldr %}
+{% include worksection.html data=data %}
 
 Be it sliding on ice or sliding down a slide or even sliding on the floor, none of these bare any relationship to the gender slider.
 

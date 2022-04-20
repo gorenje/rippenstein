@@ -1,34 +1,43 @@
-- name: Hamoni
+hamoni:
+  name: Hamoni
   url: /works/hamoni
+  offsiteurl: https://sume.mo7.org
   slogan: Musical Matching Mates
   image: /f/i/hamoni.png
 
-- name: Gender Slider
+sldr:
+  name: Gender Slider
   url: /works/slider
+  offsiteurl: https://gender.sldr.in
   slogan: Track yourself without being tracked
   image: /f/i/slider.png
 
-- name: 99.99999.fyi
+ninetynine:
+  name: 99.99999.fyi
   url: https://99.99999.fyi
   slogan: Feeling small in large world.
   image: "/f/i/7x9.png"
 
-- name: Urban Photogrammetry
+up:
+  name: Urban Photogrammetry
   url: https://urban-photogrammetry.org
-  slogan: Reducing three dimensionalimus to digital two dimensionalimus
+  slogan: Reductionism of three dimensionalism to digital two dimensionalism
   image: "/f/i/urban-photogrammetry.png"
 
-- name: Gregorius Rippenstein
+gregorius:
+  name: Gregorius Rippenstein
   url: https://gregorius.rippenstein.art
   slogan: How can I be an artist without being art myself.
   image: /f/i/gregorius-rippenstein-square.jpeg
 
-- name: Fables from the Hood
+ffth:
+  name: Fables from the Hood
   url: https://millieons.org/t/ffth
   slogan: "The truth is that you're not alone with your mundane problems."
   image: /f/i/millieons.png
 
-- name:
-  url:
-  slogan:
+tankmeister:
+  name: Tankmeister.de
+  url: /works/tankmeister
+  slogan: Because petrol tanks are worth it.
   image: /f/i/tankmeister.png

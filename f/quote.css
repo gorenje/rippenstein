@@ -1,0 +1,32 @@
+@media only screen and (min-width: 680px) {
+    .quote, .quote_signature {
+        font: 16pt/1.1 "Rosario", sans-serif !important;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .quote, .quote_signature {
+        font: 10pt/1.3 "Rosario", sans-serif !important;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .quote, .quote_signature {
+        font: 10pt/1.5 "Rosario", sans-serif !important;
+        font-weight: 700;
+        color: #eee;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}

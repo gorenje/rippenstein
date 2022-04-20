@@ -1,12 +1,12 @@
 .work {
     display: flex;
     align-items: center;
-    padding-top: 5px;
     width: 100%;
+    padding-top: 5px;
     padding-bottom: 5px;
-    border: 1px solid #7783f6;
-    background-color: #2f2c2c;
     margin-bottom: 10px;
+    border: 1px solid  #6c8ed5;
+    background-color: #6e6f71;
 }
 
 .works_image_container {
@@ -69,17 +69,13 @@
         color: #eee;
     }
     .work_slogan {
-        font: 16pt/1.0 "Rosario", sans-serif !important;
+        font: 22pt/1.0 "Rosario", sans-serif !important;
         font-weight: 700;
         color: #eee;
         font-style: italic;
     }
     .work_name {
-        font: 35pt/1.0 "Saira", sans-serif;
-    }
-    a {
-        color: #2e66dc;
-        text-decoration: none;
+        font: 32pt/1.0 "Saira", sans-serif;
     }
 }
 
@@ -112,10 +108,6 @@
     .work_name {
         font: 20pt/1.0 "Saira", sans-serif;
     }
-    a {
-        color: #2e66dc;
-        text-decoration: none;
-    }
 }
 
 @media only screen and (max-width: 480px) {
@@ -123,12 +115,15 @@
         margin: 0 auto;
         width: 100%;
     }
+    .work {
+        margin-bottom: 20px;
+    }
     .works_image {
-        height: 124px;
-        width: 124px;
+        height: 144px;
+        width: 144px;
     }
     .works_text_container {
-        height: 124px;
+        height: 144px;
         width: 100%;
     }
     .quattro {
@@ -143,63 +138,45 @@
         font-style: italic;
     }
     .work_name {
-        font: 18pt/1.0 "Saira", sans-serif;
+        font: 17pt/1.0 "Saira", sans-serif;
     }
-    a {
-        color: #6c8ed5;
-        text-decoration: none;
+    h2 {
+        font-size: 95%;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    #root {
+        margin: 0 auto;
+        width: 320px;
+    }
+    .works_image {
+        height: 124px;
+        width: 124px;
+    }
+    .works_text_container {
+        height: 124px;
+        width: 100%;
+    }
+    .quattro {
+        font: 12pt/1.2 "Saira", sans-serif;
+        color: #eee;
     }
 
-}
-
-
-.regular {
-    font-weight: normal;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.normal {
-    font-style: normal;
-}
-
-.italic {
-    font-style: italic;
-}
-
-.footer-div {
-    font-size: 50%;
-    border-top: 1px solid #eee;
-    padding-top: 4px;
-    padding-bottom: 14px;
-    margin-bottom: 14px;
-
-}
-
-.footer-div span {
-    padding-top: 4px;
-    float: right;
+    .work_slogan {
+        font: 14pt/1.0 "Rosario", sans-serif !important;
+        font-weight: 700;
+        color: #eee;
+        font-style: italic;
+    }
+    .work_name {
+        font: 16pt/1.0 "Saira", sans-serif;
+    }
+    h2 {
+        font-size: 90%;
+    }
 }
 
 h2 {
-    font-weight: 700;
-    font-size: 110%;;
     text-align: center;
-}
-
-body {
-    background-color: #2f2c2c;
-}
-
-code {
-    background-color: #eee;
-    padding: 3px;
-    width: 100%;
-    display: inline-block;
-}
-
-blockquote {
-    font-style: italic;
 }

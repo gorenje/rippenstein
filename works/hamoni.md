@@ -3,17 +3,8 @@ path: /works/hamoni
 layout: works
 ---
 
-<div class="worksection">
-<a href="https://sume.mo7.org">
-<img src="/f/i/hamoni.png" class="works_image"/>
-</a>
-
-<div style="padding-left: 5%;">
-<span class="work_name">Hamoni</span>
-<span class="work_slogan">Music Dating Platform</span>
-</div>
-
-</div>
+{% assign data=site.data.works.hamoni %}
+{% include worksection.html data=data %}
 
 Hamoni Music - Spotify dating app that matches users on their musical tastes.
 
@@ -61,4 +52,4 @@ Another thing I noticed was that there are definitely users on Spotify who see i
 
 Apparently there have been studies on what people listen to most and like the most. One result was that peoples musically tasted is defined when they are between nineteen and twenty-two, i.e., those are they favourite songs. Taking the average release dates of tracks in peoples playlists could determine their age.
 
-[Go to Hamoni](https://sume.mo7.org)
+[Go to Hamoni]({{ data.offsiteurl }})
