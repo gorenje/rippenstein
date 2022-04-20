@@ -1,5 +1,5 @@
 ---
-path: /works/hamoni
+permalink: /works/hamoni
 layout: works
 ---
 

@@ -20,7 +20,8 @@ ninetynine:
 
 up:
   name: Urban Photogrammetry
-  url: https://urban-photogrammetry.org
+  url: /works/urban-photogrammetry
+  offsiteurl: https://urban-photogrammetry.org
   slogan: Reductionism of three dimensionalism to digital two dimensionalism
   image: "/f/i/urban-photogrammetry.png"
 
@@ -36,8 +37,14 @@ ffth:
   slogan: "The truth is that you're not alone with your mundane problems."
   image: /f/i/millieons.png
 
+horrorscope:
+  name: HorrorScope
+  url: /works/horror-scope
+  slogan: "Demystification of the future is todays endeavor."
+  image: /f/i/wip.png
+
 tankmeister:
-  name: Tankmeister.de
+  name: "Tankmeister.de"
   url: /works/tankmeister
-  slogan: Because petrol tanks are worth it.
+  slogan: "Because petrol doesn't grow on trees."
   image: /f/i/tankmeister.png

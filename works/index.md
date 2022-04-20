@@ -1,5 +1,5 @@
 ---
-path: /works
+permalink: /works
 layout: worksindex
 ---
 
@@ -11,6 +11,7 @@ layout: worksindex
 {% include work.html data=site.data.works.ninetynine %}
 {% include work.html data=site.data.works.ffth %}
 {% include work.html data=site.data.works.gregorius %}
+{% include work.html data=site.data.works.horrorscope %}
 
 <span class="quote">Art is not for everyone, my art is for no-one.</span>
 <span class="quote_signature">- Gregorius Rippenstein</span>

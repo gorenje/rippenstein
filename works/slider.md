@@ -1,5 +1,5 @@
 ---
-path: /works/slider
+permalink: /works/slider
 layout: works
 ---
 
