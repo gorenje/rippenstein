@@ -9,6 +9,18 @@ body {
 .width_100 {
     width: 100%;
 }
+.width_90 {
+    width: 90%;
+}
+.width_80 {
+    width: 80%;
+}
+.width_70 {
+    width: 70%;
+}
+.width_10 {
+    width: 10%;
+}
 
 h2 {
     font: 150pt/1.0 "Teko", sans-serif;
@@ -32,19 +44,16 @@ h3 {
     text-align: center;
 }
 span.date  {
-    width: 100%;
     text-align: center;
     font: 20pt/1.0 'Source Sans Pro', sans-serif;
 }
 
 .starsign {
-    width: 100%;
     padding-bottom: 50px;
 
 }
 .starsign .title {
     display: table;
-    width: 100%;
 }
 
 .starsign .title .name {
@@ -114,6 +123,24 @@ span.date  {
         margin: 0 auto;
         width: 100%;
     }
+    h2 {
+        font-size: 60pt;
+    }
+    h3 {
+        font-size: 28pt;
+    }
+    .starsign .title .name {
+        font-size: 26pt;
+    }
+    .starsign .title .creature {
+        font-size: 12pt;
+    }
+    .starsign .title .from_date, .starsign .title .end_date {
+        font-size: 12pt;
+    }
+    .starsign .body .female, .starsign .body .male {
+        font-size: 16pt;
+    }
 }
 
 @media only screen and (max-width: 480px) {
@@ -144,6 +171,24 @@ span.date  {
 @media only screen and (max-width: 360px) {
     #root {
         margin: 0 auto;
-        width: 320px;
+        width: 80%;
+    }
+    h2 {
+        font-size: 40pt;
+    }
+    h3 {
+        font-size: 20pt;
+    }
+    .starsign .title .name {
+        font-size: 14pt;
+    }
+    .starsign .title .creature {
+        font-size: 10pt;
+    }
+    .starsign .title .from_date, .starsign .title .end_date {
+        font-size: 10pt;
+    }
+    .starsign .body .female, .starsign .body .male {
+        font-size: 12pt;
     }
 }
