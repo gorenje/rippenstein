@@ -1,0 +1,149 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.row {
+    display: table-row;
+}
+
+.width_100 {
+    width: 100%;
+}
+
+h2 {
+    font: 150pt/1.0 "Teko", sans-serif;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+    color: #8e0505;
+}
+
+h3 {
+    font: 36pt/1.0 "Teko", sans-serif;
+    font-weight: 700;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.date_container {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+span.date  {
+    width: 100%;
+    text-align: center;
+    font: 20pt/1.0 'Source Sans Pro', sans-serif;
+}
+
+.starsign {
+    width: 100%;
+    padding-bottom: 50px;
+
+}
+.starsign .title {
+    display: table;
+    width: 100%;
+}
+
+.starsign .title .name {
+    font: 36pt/1.0 'Sonsie One', cursive;
+    font-weight: regular;
+    color: #8e0505;
+}
+
+.starsign .title .creature {
+    font: 20pt/1.0 'Sunflower', sans-serif;
+    font-weight: 300;
+    color: #000;
+    display: table-cell;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.starsign .title .from_date, .starsign .title .end_date {
+    font: 20pt/1.0 'Source Sans Pro', sans-serif;
+    font-weight: italic;
+    color: #000;
+    display: block;
+    white-space:nowrap;
+}
+
+.starsign .title .dates {
+    display: table-cell;
+    padding-top: 0px;
+    text-align: right;
+}
+
+.starsign .title .from_date::after {
+    content: " - "
+}
+
+.starsign .title {
+    border-bottom: 1px solid #000;
+}
+
+.starsign .body .female, .starsign .body .male {
+    font: 20pt/1.0 'Suwannaphum', serif;
+    font-weight: regular;
+    display: block;
+}
+
+.starsign .body .female {
+    padding-top: 5px;
+}
+.starsign .body .male {
+    padding-top: 10px;
+}
+
+
+
+@media only screen and (min-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 680px;
+    }
+}
+
+
+@media only screen and (max-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+    h2 {
+        font-size: 60pt;
+    }
+    h3 {
+        font-size: 28pt;
+    }
+    .starsign .title .name {
+        font-size: 26pt;
+    }
+    .starsign .title .creature {
+        font-size: 12pt;
+    }
+    .starsign .title .from_date, .starsign .title .end_date {
+        font-size: 12pt;
+    }
+    .starsign .body .female, .starsign .body .male {
+        font-size: 16pt;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #root {
+        margin: 0 auto;
+        width: 320px;
+    }
+}
