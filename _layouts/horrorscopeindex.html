@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }} | Gregorius Rippenstein</title>
+
+    <meta name="generator" content="Jekyll v3.9.0" />
+    <meta property="og:title" content="Gregorius Rippenstein" />
+    <meta property="og:locale" content="en_AU" />
+    <link rel="canonical" href="https://gregorius.rippenstein.art/" />
+    <meta property="og:url" content="https://gregorius.rippenstein.art/"/>
+    <meta property="og:site_name" content="gregorius.rippenstein.art" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="{{ page.title }} | Gregorius Rippenstein" />
+
+    <link rel="stylesheet" href="/f/HorrorScopes/index.css">
+    <link rel="stylesheet" href="/f/quote.css">
+    <link rel="stylesheet" href="/f/baseline.css?cb=12334d432">
+    <link rel="stylesheet" href="/f/horrorscope.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/f/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/f/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/f/favicon-16x16.png">
+    <link rel="manifest" href="/f/site.webmanifest">
+    <script type="text/javascript">
+     var monthLookup = {
+       "January": "01",
+       "February": "02",
+       "March": "03",
+       "April": "04",
+       "May": "05",
+       "June": "06",
+       "July": "07",
+       "August": "08",
+       "September": "09",
+       "October": "10",
+       "November": "11",
+       "December": "12",
+     }
+     function make_days_clickable() {
+       document.querySelectorAll("td.mon, td.tue, td.wed, td.thu, td.sun, td.fri, td.sat").forEach( function(elem) {
+         var month = elem.parentElement.parentElement.firstChild.firstChild.innerHTML;
+         var day = elem.innerHTML;
+         var year = elem.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.firstChild.firstChild.innerHTML;
+
+         if ( day.length == 1 ) { day = "0" + day; }
+         var link = ""+year+monthLookup[month]+day;
+         elem.addEventListener('click', function() {
+           window.location = link;
+         })
+       })
+      }
+      window.onload = make_days_clickable;
+    </script>
+  </head>
+
+  <body onload="make_days_clickable()">
+    <div id="root">
+      <div class="quattro">
+
+        <h2>HorrorScope</h2>
+        <h3>Making the future a bit more miserable</h3>
+
+        <div class="works_description">
+        {{ content }}
+        </div>
+
+        <div class="footer-div">
+          <a href="/works">Works</a>
+          <a style="float: right;" href="https://www.paypal.com/donate/?hosted_button_id=SXBPWPT59LHFS" target=_blank>Donate</a>
+          <br/>
+          <span>Copyright &copy; 2022 DGAF Media Group Ltd.</span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

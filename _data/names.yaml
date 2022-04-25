@@ -1,4 +1,42 @@
 female:
+  - Amelia
+  - Olivia
+  - Charlotte
+  - Isla
+  - Mia
+  - Ava
+  - Chloe
+  - Grace
+  - Sophia
+  - Zoe
+  - Willow
+  - Lily
+  - Isabella
+  - Mila
+  - Ella
+  - Aria
+  - Maia
+  - Aurora
+  - Amaia
+  - Kiara
+  - Kaia
+  - Amara
+  - Kora
+  - Maria
+  - Tiare
+  - Hinano
+  - Poema
+  - Maeva
+  - Hina
+  - Vaea
+  - Titaua
+  - Moea
+  - Moeata
+  - Tarita
+  - Titaina
+  - Teura
+  - Heikapu
+  - Mareva
   - Jane
   - Emma
   - Anna
@@ -11,18 +49,1449 @@ female:
   - Mandy
   - Sarah
   - Denise
+  - Imene
+  - Sara
+  - Yasmine
+  - Lyna
+  - Amina
+  - Meriem
+  - Karima
+  - Melissa
+  - Lydia
+  - Shaimaa
+  - Fatma
+  - Maha
+  - Reem
+  - Farida
+  - Aya
+  - Shahd
+  - Ashraqat
+  - Sahar
+  - Fatin
+  - Dalal
+  - Doha
+  - Fajr
+  - Suha
+  - Rowan
+  - Hosniya
+  - Hasnaa
+  - Hosna
+  - Gamila
+  - Gamalat
+  - Habiba
+  - Mary
+  - Marie
+  - Mariam
+  - Marina
+  - Irene
+  - Malak
+  - Hana
+  - Farah
+  - Marwa
+  - Nada
+  - Salma
+  - María del Carmen
+  - Isabel
+  - María Teresa
+  - Esperanza
+  - Milagrosa
+  - Rania
+  - Hoda
+  - Mona
+  - Fatima
+  - Eisha
+  - Nesreen
+  - Fatoumata
+  - Aminata
+  - Hawa
+  - Awa
+  - Oumou
+  - Djeneba
+  - Bintou
+  - Fanta
+  - Kadiatou
+  - Inès
+  - Noûr
+  - Assia
+  - Maryam
+  - Aïcha
+  - Nora
+  - Amira
+  - Melokuhle
+  - Amahle
+  - Enzokuhle
+  - Lisakhanya
+  - Lethabo
+  - Omphile
+  - Lesedi
+  - Okuhle
+  - Lethokuhle
+  - Rethabile
+  - Shayma
+  - Khawla
+  - Martina
+  - Alma
+  - Catalina
+  - Ámbar
+  - Delfina
+  - Alysha
+  - Isabella/Isabelle
+  - Emily/Emely
+  - Martha
+  - Roxana
+  - Ana Maria
+  - Elizabeth
+  - Sonia
+  - Juana
+  - Patricia
+  - Lidia
+  - Rosmery
+  - Carmen
+  - Helena
+  - Alice
+  - Laura
+  - Maria Alice
+  - Valentina
+  - Heloísa
+  - Maria Clara
+  - Maria Cecilia
+  - Maria Julia
+  - Ana
+  - Francisca
+  - Antônia
+  - Adriana
+  - Juliana
+  - Marcia
+  - Fernanda
+  - Patrícia
+  - Aline
+  - Zoey
+  - Charlie
+  - Léa
+  - Florence
+  - Livia
+  - Romy
+  - Clara
+  - Sofía
+  - Emilia
+  - Agustina
+  - Julieta
+  - Trinidad
+  - Josefa
+  - Isidora
+  - Luciana
+  - Antonella
+  - Gabriela
+  - Celeste
+  - Mariana
+  - Salomé
+  - Ivaana
+  - Nivi
+  - Uiloq
+  - Niviaq
+  - Ivalu
+  - Pipaluk
+  - Malu
+  - Paninnguaq
+  - Aviana
+  - Maya
+  - Paneeraq
+  - Widelene
+  - Mirlande/Myrlande
+  - Islande
+  - Lovelie/Lovely
+  - Judeline
+  - Angeline
+  - Esther
+  - Chedeline
+  - Jessica
+  - Rose-Merline
+  - Arianna
+  - Ariana
+  - Kaira
+  - Gabrielle
+  - Gabriella
+  - Brianna
+  - Adrianna
+  - Savannah
+  - María José
+  - Ximena
+  - Regina
+  - Camila
+  - María Fernanda
+  - Valeria
+  - Renata
+  - María
+  - Beatriz
+  - Ramona
+  - Liz
+  - Concepción
+  - Carolina
+  - Mabel
+  - Raquel
+  - Noemí
+  - Alessia
+  - Aitana
+  - Danna
+  - Luana
+  - Mikaela
+  - Ainhoa
+  - Amanda
+  - Luna
+  - Evelyn
+  - Harper
+  - Linda
+  - Barbara
+  - Jennifer
+  - Susan
+  - Margaret
+  - Dorothy
+  - Florencia
+  - Lucía
+  - Julia
+  - Abril
+  - Ana Paula
+  - Micaela
+  - Nicole
+  - Samantha
+  - Maryam مريم
+  - Fatima فاطمة
+  - Lyn لين
+  - Hur حور
+  - Lian ليان
+  - Maria ماريا
+  - Malak ملك
+  - Nur نور
+  - Mila ميلا
+  - Farah فرح
+  - Nare
+  - Angelina
+  - Arpi
+  - Mane
+  - Yeva
+  - Mari
+  - Ani
+  - Zahra
+  - Zeynab
+  - Aylin
+  - Nuray
+  - Nilay
+  - Inji
+  - Daniz
+  - Sevinj
+  - Gunel
+  - Leyla
+  - Aygun
+  - Gunay
+  - Sevda
+  - Vusala
+  - Konul
+  - Aysel
+  - Tarana
+  - Ruòxī 若汐
+  - Yīnuò 一诺
+  - Yìhán 艺涵
+  - Yīnuò 依诺
+  - Zǐhán 梓涵
+  - Yǐmò 苡沫
+  - Yǔtóng 雨桐
+  - Xīnyí 欣怡
+  - Yǔtóng 语桐
+  - Yǔxī 语汐
+  - Prisha
+  - Aadhya
+  - Amyra
+  - Inaya
+  - Pari
+  - Siya
+  - Kyra
+  - Dhriti
+  - Ayra
+  - Fatemeh
+  - Helma
+  - Zeinab
+  - Yasna
+  - Mersana
+  - Nazanin-Zahra
+  - Baran
+  - Fatemeh-Zahra
+  - "Ma'soumeh"
+  - Sakineh
+  - Roghayyeh
+  - Khadije
+  - Somayyeh
+  - Tamar
+  - Abigail
+  - Noa
+  - Ayala
+  - Adele
+  - Yael
+  - Shira
+  - Shams
+  - Lyn
+  - Malek
+  - Jori
+  - Lian
+  - Nur
+  - Marya
+  - Lin
+  - Sama
+  - Celine
+  - Leah
+  - Ayalah
+  - Lur
+  - Yasmin
+  - Himari 陽葵
+  - Tsumugi 紬
+  - Rin 凛
+  - Mei 芽依
+  - Aoi 葵
+  - Hina 陽菜
+  - Mio 澪
+  - Riko 莉子
+  - Yuina 結奈
+  - An 杏
+  - Jouri
+  - Naya
+  - Mira
+  - Lianne
+  - Leen
+  - Zina
+  - Wateen
+  - Tuleen
+  - Mädïna (Медина)
+  - Aylin (Айлин)
+  - Asilim (Асылым)
+  - Ayşa (Айша)
+  - Rayana (Раяна)
+  - Ayala (Аяла)
+  - Ayzere (Айзере)
+  - Amina (Амина)
+  - Tomyris (Томирис)
+  - Ayim (Айым)
+  - Hussa
+  - Sherifa
+  - Aisha
+  - Lulwa
+  - Shaikha
+  - Saliha (Салиха)
+  - Fátima (Фатима)
+  - Aliya (Алия)
+  - Safiya (Сафия)
+  - Aruuzat (Аруузат)
+  - Hadicha (Хадича)
+  - Aruuke (Арууке)
+  - Layla
+  - Christina
+  - Amal
+  - Wan
+  - Nurul
+  - Aisyah
+  - Siti
+  - Dhia
+  - Naura
+  - Puteri
+  - Odval
+  - Bolormaa
+  - Bayarmaa
+  - Oyunbileg
+  - Khongordzol
+  - Shristi
+  - Sunita
+  - Rabina
+  - Asmita
+  - Niharika
+  - Binita
+  - Aasha
+  - Kabita
+  - Sita
+  - Gita
+  - Fozia
+  - Bismah
+  - Sobia
+  - Farrah
+  - Farzana
+  - Ayesha
+  - Sakeena
+  - Zainab
+  - Althea
+  - Angel
+  - Princess
+  - Nathalie
+  - Sofia
+  - Jasmine
+  - Andrea
+  - Angela
+  - Latifa
+  - Hessa
+  - Maysoun
+  - Nouf
+  - Noor
+  - Reema
+  - Alanoud
+  - Ji-an (지안)
+  - Ha-yoon (하윤)
+  - Seo-ah (서아)
+  - Ha-eun (하은)
+  - Seo-yun (서윤)
+  - Ha-rin (하린)
+  - Ji-yoo (지유)
+  - Ji-woo (지우)
+  - Soo-ah (수아)
+  - Ji-a (지아)
+  - Shu-fen (淑芬)
+  - Shu-hui (淑惠)
+  - Mei-ling (美玲)
+  - Ya-ting (雅婷)
+  - Mei-hui (美惠)
+  - Li-hua (麗華)
+  - Shu-chuan (淑娟)
+  - Shu-chen (淑貞)
+  - I-chun (怡君)
+  - Shu-hua (淑華)
+  - Sumayah
+  - Asiya
+  - Oisha
+  - Googoosh
+  - Anohito
+  - Indira
+  - Zeynep
+  - Elif
+  - Defne
+  - Asel
+  - Azra
+  - Eylül
+  - Nehir
+  - Eslem
+  - Asya
+  - Ayşe
+  - Emine
+  - Hatice
+  - Meryem
+  - Şerife
+  - Zehra
+  - Sultan
+  - Sara/Sarah
+  - Fatima/Fatma
+  - Ajla
+  - Amelja
+  - Leandra
+  - Ambra
+  - Klea
+  - Melisa
+  - Amaris
+  - Reina
+  - Laia
+  - Carlota
+  - Lara
+  - Aina
+  - Blanca
+  - Sophie
+  - Elena
+  - Lena
+  - Lea
+  - Sofiya (София)
+  - Marya (Мария)
+  - Polina (Полина)
+  - Eva (Ева)
+  - Anna (Анна)
+  - Darya (Дария)
+  - Kseniya (Ксенія)
+  - Alisa (Алиса)
+  - Louise
+  - Lina
+  - Juliette
+  - Marjam
+  - Asja
+  - Ema
+  - Esma
+  - Lejla
+  - Lamija
+  - Viktoria (Виктория)
+  - Maria (Мария)
+  - Nikol (Никол)
+  - Raya (Рая)
+  - Sofia (София)
+  - Yoana (Йоана)
+  - Daria (Дария)
+  - Gabriela (Габриела)
+  - Aleksandra (Александра)
+  - Simona (Симона)
+  - Lucija
+  - Nika
+  - Marta
+  - Rita
+  - Maria (Μαρία)
+  - Eleni (Ελένη)
+  - Androula (Ανδρούλα)
+  - Georgia (Γεωργία)
+  - Panagiota (Παναγιώτα)
+  - Anna (Άννα)
+  - Christina (Χριστίνα)
+  - Katerina (Κατερίνα)
+  - Ioanna (Ιωάννα)
+  - Kyriaki (Κυριακή)
+  - Eliška
+  - Adéla
+  - Tereza
+  - Sofie
+  - Viktorie
+  - Karolína
+  - Natálie
+  - Amálie
+  - Julie
+  - Ida
+  - Freja
+  - Agnes
+  - Karla
+  - Ivy
+  - Rosie
+  - Emily
+  - Hanna
+  - Eva
+  - Alisa
+  - Lenna
+  - Lilja
+  - Ronja
+  - Tóra
+  - Vár
+  - Bára
+  - Eir
+  - Lív
+  - Lóa
+  - Rebekka
+  - Aino
+  - Pihla
+  - Aada
+  - Eevi
+  - Helmi
+  - Ellen
+  - Adèle
+  - Chloé
+  - Jeanne
+  - Rose
+  - Jade
+  - Ambre
+  - Mariami მარიამი
+  - Nino ნინო
+  - Elene ელენე
+  - Barbare ბარბარე
+  - Lile ლილე
+  - Anastasia ანასტასია
+  - Nia ნია
+  - Nutsa ნუცა
+  - Sesili სესილი
+  - Ana ანა
+  - Hannah/Hanna
+  - Sophia/Sofia
+  - Lea/Leah
+  - Klara/Clara
+  - Aikaterini (Katerina)(Αικατερίνη)
+  - Vasiliki
+  - Basiliki (Vaso) (Βασιλική)
+  - Sophia (Σοφία)
+  - Angeliki (Αγγελική)
+  - Georgia (Giorgia
+  - Gogo) (Γεωργία)
+  - Dimitra (Δήμητρα)
+  - Konstantina (Kostantina) (Κωνσταντίνα)
+  - Paraskevi
+  - Paraskeui (Παρασκευή)
+  - Daisy
+  - Zoé
+  - Léna
+  - Luca
+  - Zsófia
+  - Boglárka
+  - Lili
+  - Emilía/Emelía
+  - Embla
+  - Ísabella/Ísabel/Isabella/Isabel
+  - Katla
+  - Freyja
+  - Hekla
+  - Alexandra
+  - Elísabet/Elísabeth
+  - Karítas/Karitas
+  - Fiadh
+  - Éabha
+  - Lucy
+  - Isabelle
+  - Matilda
+  - Giulia
+  - Ginevra
+  - Beatrice
+  - Giorgia
+  - Vittoria
+  - Matilde
+  - Hallie
+  - Sofija
+  - Alise
+  - Emīlija
+  - Amēlija
+  - Paula
+  - Estere
+  - Dārta
+  - Viktorija
+  - Sofia/Sophia
+  - Hanna/Hannah
+  - Amélie/Amelie
+  - Annika
+  - Nina
+  - Noemi
+  - Amelija
+  - Lėja
+  - Emilija
+  - Luknė
+  - Liepa
+  - Gabija
+  - Patricija
+  - Kamilė
+  - Iglė
+  - Amy
+  - Marija
+  - Biljana
+  - Vesna
+  - Snezana
+  - Violeta
+  - Aleksandra
+  - Suzana
+  - Katerina
+  - Ivana
+  - Jana (Јана)
+  - Sofija (Софија)
+  - Ana (Ана)
+  - Mila (Мила)
+  - Jovana (Јована)
+  - Hana (Хана)
+  - Sara]] (Сара)
+  - Bisera (Бисера)
+  - Asija (Асија)
+  - Julia/Yulia/Julianne
+  - Elena/Elenia/Helena/Ella
+  - Emma/ Emmanuela/Ema
+  - Eliza/Elisa/Elizabeth/Elise
+  - Maya/Mia/Myah
+  - Emilia/Emily/Emelie
+  - Catherine/Katrina/Kate/Katya
+  - Lea/Leah/Leia
+  - Sophia/Sophie
+  - Anastasia
+  - Daria
+  - Evelina
+  - Andreea
+  - Théa
+  - Jelena (Јелена)
+  - Milica (Милица)
+  - Marija (Марија)
+  - Ivana (Ивана)
+  - Milena (Милена)
+  - Dragana (Драгана)
+  - Radmila (Радмила)
+  - Vesna (Весна)
+  - Ljiljana (Љиљана)
+  - Sara (Сара)
+  - Maša (Маша)
+  - Dunja (Дуња)
+  - Teodora (Теодора)
+  - Helena (Хелена)
+  - Anja (Ања)
+  - Tess
+  - Milou
+  - Zoë
+  - Yara
+  - Freya
+  - Maja
+  - Frida
+  - Ingrid
+  - Zuzanna
+  - Zofia
+  - Oliwia
+  - Alicja
+  - Pola
+  - Leonor
+  - Benedita
+  - Mariya (Мария)
+  - Viktoriya (Виктория)
+  - Alexandra (Александра)
+  - Elizaveta (Елизавета)
+  - Varvara (Варвара)
+  - Anastasia (Анастасия)
+  - Yelena (Елена)
+  - Olga (Ольга)
+  - Natalia (Наталья)
+  - Yekaterina (Екатерина)
+  - Tatiana (Татьяна)
+  - Irina (Ирина)
+  - Yulia (Юлия)
+  - Millie
+  - Mirjana (Мирјана)
+  - Snežana (Снежана)
+  - Gordana (Гордана)
+  - Natalija
+  - Viktória
+  - Sára
+  - Natália
+  - Nela
+  - Zala
+  - Julija
+  - Ela
+  - Lana
+  - Neža
+  - Daniela
+  - Carla
+  - Ane
+  - June
+  - Nahia
+  - Maddi
+  - Izaro
+  - Irati
+  - Malen
+  - Júlia
+  - Ona
+  - Vera
+  - Selma
+  - Elsa
+  - Lilly
+  - Astrid
+  - Wilma
+  - Alina
+  - Sofiya (Софія)
+  - Zlata (Злата)
+  - Mariya (Марія)
+  - Solomiya (Соломія)
+  - Anastasiya (Анастасія)
+  - Khrystyna (Христина)
+  - Marharyta (Маргарита)
+  - Milana (Мілана)
+  - Polina (Поліна)
 
 male:
+  - Oliver
+  - Noah
+  - William
+  - Leo
+  - Lucas
+  - Henry
+  - Liam
   - Jack
+  - Thomas
+  - James
+  - George
+  - Charlie
+  - Theodore
+  - Luca
+  - Nikau
+  - Ari
+  - Niko
+  - Koa
+  - Mateo
+  - Keanu
+  - Mikaere
+  - Manaia
+  - Kairo
+  - Kiwa
+  - Hiro
+  - Teiki
+  - Moana
+  - Manua
+  - Marama
+  - Teiva
+  - Teva
+  - Maui
+  - Tehei
+  - Tamatoa
+  - Ioane
+  - Tapuarii
+  - Noel
+  - Aron
+  - Joel
+  - Roan
+  - Amar
+  - Alteo
+  - Roel
+  - Luis
+  - Dion
+  - Marc
+  - Eric
+  - Jan
+  - Daniel
+  - Enzo
+  - Ian
+  - Pol
+  - Àlex
+  - Jordi
+  - Martí
+  - Lukas
+  - Elias
+  - Jakob
+  - Matteo
+  - David
+  - Jonas
+  - Maximilian
+  - Paul
+  - Felix
+  - Alexander
+  - Artsiom Артем
+  - Mikhail (Михаил)
+  - Maksim Максим
+  - Ivan Иван
+  - Roman Роман
+  - Aleksandr Александр
+  - Danyl Даниил
+  - Arthur
+  - Jules
+  - Louis
+  - Adam
+  - Victor
+  - Gabriel
+  - Mohamed
+  - Davud
+  - Hamza
+  - Daris
+  - Adin
+  - Eman
+  - Harun
+  - Ali
+  - Džan
+  - Aleksandar (Александър)
+  - Georgi (Георги)
+  - Martin (Мартин)
+  - Kaloyan (Калоян)
+  - Boris (Борис)
+  - Dimitar (Димитър)
+  - Teodor (Теодор)
+  - Daniel (Даниел)
+  - Ivan (Иван)
+  - Nikola (Никола)
+  - Viktor (Виктор)
+  - Luka
+  - Jakov
+  - Ivan
+  - Petar
+  - Roko
+  - Matej
+  - Noa
+  - Filip
+  - Andreas (Ανδρέας)
+  - Georgios (Γεώργιος)
+  - Konstantinos (Κωνσταντίνος)
+  - Christos (Χρήστος)
+  - Nikolaos (Νικόλαος)
+  - Michalis (Μιχάλης)
+  - Panagiotis (Παναγιώτης)
+  - Ioannis (Ιωάννης)
+  - Marios (Μάριος)
+  - Dimitrios (Δημήτριος)
+  - Jakub
+  - Tomáš
+  - Matyáš
+  - Vojtěch
+  - Lukáš
+  - Martin
+  - Matěj
+  - Oscar
+  - Karl
+  - Alfred
+  - Valdemar
+  - August
+  - Malthe
+  - Muhammad
+  - Harry
+  - Archie
+  - Robin
+  - Mark
+  - Sebastian
+  - Hugo
+  - Henri
+  - Rasmus
+  - Miron
+  - Kristofer
+  - Benjamin
+  - Jóhan
+  - Levi
+  - Øssur
+  - Brandur
+  - Hákun
+  - Mattias
+  - Poul
+  - Teitur
+  - Eino
+  - Onni
+  - Väinö
+  - Eeli
+  - Toivo
+  - Leevi
+  - Raphaël
+  - Isaac
+  - Joseph
+  - Léon
+  - Léo
+  - Maël
+  - Gabriel გაბრიელი
+  - Andria ანდრია
+  - Giorgi გიორგი
+  - Davit დავითი
+  - Aleksandre ალექსანდრე
+  - Nikoloz ნიკოლოზი
+  - Demetre დემეტრე
+  - Luka ლუკა
+  - Daniel დანიელ
+  - Gabor მათე
+  - Leon
+  - Ben
+  - Finn
+  - Vasileios (Βασίλειος)
+  - Athanasios (Αθανάσιος)
+  - Michail (Μιχαήλ)
+  - Lewis
+  - Charles
+  - Bence
+  - Máté
+  - Dominik
+  - Levente
+  - Dániel
+  - Zalán
+  - Marcell
+  - Olivér
+  - Ádám
+  - Emil
+  - Kári
+  - Viktor/Victor
+  - Óliver
+  - Mikael/Mikkael/Mikkel
+  - Jökull
+  - Guðmundur
+  - Jón
+  - Gunnar
+  - Jóhann
+  - Úlfur
+  - Conor
+  - Rían
+  - Cillian
+  - Tadhg
+  - Rory
+  - Leonardo
+  - Francesco
+  - Alessandro
+  - Lorenzo
+  - Mattia
+  - Tommaso
+  - Gabriele
+  - Andrea
+  - Riccardo
+  - Edoardo
+  - Alfie
+  - Roberts
+  - Olivers
+  - Marks
+  - Emīls
+  - Aleksandrs
+  - Kārlis
+  - Markuss
+  - Adrians
+  - Gustavs
+  - Jēkabs
+  - Oscar/Oskar
+  - Laurin
+  - Lian/Lyan
+  - Luis/Louis
+  - Noa/Noah
+  - Theo
+  - Benas
+  - Markas
+  - Matas
+  - Nojus
+  - Jokūbas
+  - Herkus
+  - Kajus
+  - Dominykas
+  - Adomas
+  - Tom
+  - Aleksandar
+  - Zoran
+  - Nikola
+  - Goran
+  - Dragan
+  - Dejan
+  - Igor
+  - Ilija
+  - Stefan
+  - Damjan (Дамјан)
+  - Luka (Лука)
+  - Mihail (Михаил)
+  - Jakov (Јаков)
+  - Marko (Марко)
+  - Andrej (Андреј)
+  - David (Давид)
+  - Petar (Петар)
+  - Matej (Матеј)
+  - Jovan (Јован)
+  - Luke/Luca/Lucas
+  - Matthew/ Matthias/Matteo
+  - Nicholas/Nick/Nicholai/Nicolo
+  - Alexander/Alessandro/Alejandro
+  - Jacob/Jake
+  - Michael/Miguel/Mikhail
+  - Andre/Andrew/Andrea/Andrei
+  - Liam/William
+  - John/Giovanni/Jean/Juan
+  - Matei
+  - Bogdan
+  - Maxim
+  - Alexandru
+  - Damian
+  - Artiom
+  - Ion
+  - Ethan
+  - Théo
+  - Dragan (Драган)
+  - Miloš (Милош)
+  - Zoran (Зоран)
+  - Milan (Милан)
+  - Aleksandar (Александар)
+  - Vuk (Вук)
+  - Lazar (Лазар)
+  - Pavle (Павле)
+  - Vasilije (Василије)
+  - Stefan (Стефан)
+  - Sem
+  - Daan
+  - Milan
+  - Oisin
+  - Oskar
+  - Isak
+  - Aksel
+  - Kasper
+  - Antoni
+  - Aleksander
+  - Franciszek
+  - Szymon
+  - Mikołaj
+  - Stanisław
+  - Francisco
+  - João
+  - Afonso
+  - Tomás
+  - Duarte
+  - Santiago
+  - Lourenço
+  - Rodrigo
+  - Miguel
+  - Alexander (Александр)
+  - Maxim (Максим)
+  - Lev (Лев)
+  - Artyom (Артём)
+  - Mark (Марк)
+  - Dmitry (Дмитрий)
+  - Matvey (Матвей)
+  - Daniil (Даниил)
+  - Sergei (Сергей)
+  - Andrei (Андрей)
+  - Alexey (Алексей)
+  - Evgeny (Евгений)
+  - Artyom (Артем)
+  - Harris
+  - Finlay
+  - Goran (Горан)
+  - Dušan (Душан)
+  - Dejan (Дејан)
+  - Relja
+  - Teo
+  - Matija
+  - Danijel
+  - Samuel
+  - Michal
+  - Nik
+  - Tim
+  - Lovro
+  - Martín
+  - Alejandro
+  - Manuel
+  - Pablo
+  - Álvaro
+  - Markel
+  - Julen
+  - Jon
+  - Aimar
+  - Oihan
+  - Ander
+  - Ibai
+  - Oier
+  - Danel
+  - Nil
+  - Marti
+  - Biel
+  - Pau
+  - Frans
+  - Aaron
+  - Maksym (Максим)
+  - Oleksandr (Олександр)
+  - Matviy (Матвій)
+  - Ivan (Іван)
+  - Andriy (Андрій)
+  - Artem (Артем)
+  - Mykhailo (Михайло)
+  - Tymofiy (Тимофій)
+  - Finley
+  - Tommy
+  - Mohamed محمد
+  - Abdullah عبدالله
+  - Ahmed أحمد
+  - Ali علي
+  - Yousouf يوسف
+  - Omar عمر
+  - Adam آدم
+  - Abd عبد
+  - Khaled خالد
+  - Fahd فهد
+  - Davit
+  - Narek
+  - Hayk
+  - Monte
+  - Tigran
+  - Areg
+  - Miqayel
+  - Alex
+  - Alen
+  - Yusif
+  - Ughur
+  - Huseyn
+  - Mahammad
+  - Murad
+  - Omar
+  - Raul
+  - Aykhan
+  - Tunar
+  - Elchin
+  - Vugar
+  - Anar
+  - Elnur
+  - Samir
+  - Elshan
+  - Rashad
+  - Ilgar
+  - Vusal
+  - Mùchén 沐宸
+  - Hàoyǔ 浩宇
+  - Mùchén 沐辰
+  - Míngzé 茗泽
+  - Yìchén 奕辰
+  - Yǔzé 宇泽
+  - Hàorán 浩然
+  - Yìzé 奕泽
+  - Yǔxuān 宇轩
+  - Mùyáng 沐阳
+  - Aarav
+  - Advik
+  - Atharv
+  - Vihaan
+  - Kiaan
+  - Shivansh
+  - Rishaan
+  - Ayansh
+  - Viraj
+  - Amir-Ali
+  - Mohammad
+  - Amir-Hossein
+  - Hossein
+  - AbulFazl
+  - Amir-Abbas
+  - Samyar
+  - Mohammad-Taha
+  - Aria
+  - Mahdi
+  - Hassan
+  - Reza
+  - Ahmad
+  - Mohammad-Reza
+  - Abbas
+  - Ali-Reza
+  - Muhammed
+  - Hussein
+  - Hydar
+  - Ahmed
+  - Hasan
+  - Kathem
+  - Abdullah
+  - Ammar
+  - Lavi
+  - Ariel
+  - Yosef
+  - Noam
+  - Uri
+  - Refael
+  - Moshe
+  - Yehuda
+  - Yusef
+  - Omer
+  - Abd
+  - Amir
+  - Ibrahim
+  - Mahmoud
+  - Charbel
+  - Jude
+  - Niel
+  - Taim
+  - Ren 蓮
+  - Haruto 陽翔
+  - Aoi 蒼
+  - Itsuki 樹
+  - Minato 湊
+  - Asahi 朝陽
+  - Ao 碧
+  - Hiroto 大翔
+  - Ritsu 律
+  - Dan 暖
+  - Youssef
+  - Karam
+  - Shahem
+  - Jad
+  - Hashem
+  - Alikhan (Алихан)
+  - Aisultan (Айсұлтан)
+  - Nurislam (Нұрислам)
+  - Aldiyar (Алдияр)
+  - Amir (Амир)
+  - Alinur (Алинұр)
+  - Ali (Әли)
+  - Omar (Омар)
+  - Ramazan (Рамада́н)
+  - Muxammed (Мұхаммед)
+  - Fahad
+  - Khaled
+  - Yousef
+  - Abdulaziz
+  - Faisal
+  - Bader
+  - Muhammad (Мухаммад)
+  - Umar (Умар)
+  - Ali (Али)
+  - Bilal (Билал)
+  - Alinur (Алинур)
+  - Nurislam (Нурислам)
+  - Emir (Эмир)
+  - Usman (Усман)
+  - Elie
+  - Christian
+  - Joe
+  - Muhamad
+  - Wan
+  - Iman
+  - Harraz
+  - Izz
+  - Umar
+  - Aariz
+  - Naranbaatar
+  - Batkhaаn
+  - Baаtar
+  - Chuluun
+  - Sukhbaаtar
+  - Krishna
+  - Kiran
+  - Bishal
+  - Bibek
+  - Siddhartha
+  - Manish
+  - Mahesh
+  - Kamal (name)
+  - Prem
+  - Prakash
+  - Hussain
+  - Bilal
+  - Usman
+  - Zahid
+  - Shahid
+  - Saqib
+  - Nomaan
+  - Jacob
+  - Nathaniel
+  - Nathan
+  - Ezekiel
+  - Angelo
+  - Joshua
+  - Kyle
+  - Fahd
+  - Abdulrahman
+  - Turki
+  - Bandar
+  - Seo-jun (서준)
+  - Ha-joon (하준)
+  - Do-yun (도윤)
+  - Eun-woo (은우)
+  - Si-woo (시우)
+  - Ji-ho (지호)
+  - Ye-jun (예준)
+  - Yu-jun (유준)
+  - Ju-won (주원)
+  - Min-jun(민준)
+  - Chia-hao (家豪)
+  - Chih-ming (志明)
+  - Chun-chieh (俊傑)
+  - Chien-hung (建宏)
+  - Chun-hung (俊宏)
+  - Chih-hao (志豪)
+  - Chih-wei (志偉)
+  - Wen-Hsiung (文雄)
+  - Chin-lung (金龍)
+  - Chih-chiang (志強)
+  - Yusuf
+  - Abdullo
+  - Abubakr
+  - Somchai
+  - Somsak
+  - Somporn
+  - Somboon
+  - Prasert
+  - Miraç
+  - Eymen
+  - Ömer Asaf
+  - Kerem
+  - Alparslan
+  - Mustafa
+  - Emir
+  - Ali Asaf
+  - Mehmet
+  - Ahmet
+  - Hüseyin
+  - İsmail
+  - Osman
+  - Abdulla
+  - Bautista
+  - Juan
+  - Felipe
+  - Bruno
+  - Benicio
+  - Thiago
+  - Ciro
+  - Dylan/Dyllan
+  - Kevin/Keven
+  - Juan Carlos
+  - José Luis
+  - Marco Antonio
+  - Miguel Ángel
+  - Mario
+  - Fernando
+  - Victor Hugo
+  - Jorge
+  - Gael
+  - Heitor
+  - Davi
+  - Bernardo
+  - João Miguel
+  - José
+  - Antônio
+  - Carlos
+  - Paulo
+  - Pedro
+  - Luiz
+  - Marcos
+  - Jackson
+  - Aiden
+  - Édouard
+  - Logan
+  - Agustín
+  - Benjamín
+  - Lucás
+  - Gaspar
+  - Matías
+  - Joaquín
+  - Maximiliano
+  - Emiliano
+  - Jerónimo
+  - Emmanuel
+  - Nicolás
+  - Inuk
+  - Malik
+  - Minik
+  - Inunnguag
+  - Ulloriaq
+  - Norsaq
+  - Aputsiaq
+  - Ivik
+  - Miki
+  - Maligiaq
+  - Qillaq
+  - Inutsiaq
+  - Nuka
+  - Salik
+  - Stevenson
+  - Stanley
+  - Peterson
+  - Wilson
+  - Jameson
+  - Evens
+  - Ricardo
+  - Jayden
+  - Malachi
+  - Jordan
+  - Sebastián
+  - Diego
+  - Ramón
+  - Antonio
+  - Javier
+  - César
+  - Dylan
+  - Elijah
+  - John
+  - Robert
+  - Michael
+  - Richard
+  - Diego Alejandro
+  - Daniel Alejandro
+  - Juan Andrés
   - Peter
   - Anton
-  - Tom
   - Virgil
-  - Martin
   - Luke
   - Gonzales
-  - Carlos
-  - Martin
   - Sam
   - Edgar
   - Dave
+  - Abdallah
+  - Abdel-Rahman
+  - Abdelkader
+  - Abdoulaye
+  - Adama
+  - Amine
+  - Ayabonga
+  - Ayoub
+  - Aziz
+  - Bakary
+  - Banele
+  - Beshoi
+  - Brahim
+  - Djamel
+  - Enzokuhle
+  - Fadi
+  - Habib
+  - Halim
+  - Junior
+  - Karim
+  - Kirollos
+  - Lethabo
+  - Lethokuhle
+  - Lubanzi
+  - Mahamadou
+  - Mamadou
+  - Mehdi
+  - Melokuhle
+  - Mina
+  - Modibo
+  - Mohammed
+  - Moussa
+  - Naïm
+  - Omphile
+  - Oumar
+  - Pierre
+  - Rachid
+  - Said
+  - Sekou
+  - Selim
+  - Siyabonga
+  - Souleymane
+  - Taha
+  - Tareq
+  - Wassim
+  - Yassin
+  - Younès

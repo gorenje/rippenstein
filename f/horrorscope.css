@@ -108,7 +108,50 @@ span.date  {
     padding-top: 10px;
 }
 
+table.year {
+    cellpadding: 1px;
+    cellspacing: 1px;
+    text-align: center;
+}
+table.month {
+    padding: 5px;
+}
+table td {
+    font: 10pt/1.0 'Sunflower', sans-serif;
+}
 
+th.year {
+    font: 20pt/1.0 'Source Sans Pro', sans-serif;
+    background-color: #8e0505;
+}
+th.month {
+    font: 12pt/1.0 'Source Sans Pro', sans-serif;
+}
+.year td {
+    text-align: center;
+    vertical-align: top;
+    padding: 2px;
+}
+
+th.mon, th.tue, th.wed, th.thu, th.fri, th.sat, th.sun {
+    display: none;
+}
+
+table.nav_links {
+    width: 100%;
+}
+table.nav_links td {
+    width: 33%;
+}
+td.next_day {
+    text-align: right;
+}
+td.prev_day {
+    text-align: left;
+}
+td.calendar_link {
+    text-align: center;
+}
 
 @media only screen and (min-width: 680px) {
     #root {

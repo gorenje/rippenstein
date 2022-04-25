@@ -26,15 +26,15 @@
   gender: d
 - text: "don't worry today won't be as bad as yesterday, it will be worse."
   gender: d
-- text: "today you will discover who your biological father is."
+- text: "today you will discover who your biological father is. And he will know he has a child."
   gender: d
-- text: "today your husband will announce that he is having children with your sister. They ugly sister."
+- text: "today your husband will announce that he is having children with your sister. The ugly sister."
   gender: f
 - text: "today all windows are high enough. But it will only end with a broken leg."
   gender: d
 - text: "remember when you skipped all those swimming lessons? Will today is a good day to stay away from water."
   gender: d
-- text: "be cautious carrying metal objects today. Thunder, in your case, does strike twice."
+- text: "be careful carrying metal objects today. Lightening, in your case, does strike twice."
   gender: d
 - text: "your house will burn down today. Unfortunately the insurance expired last month."
   gender: d
@@ -43,4 +43,6 @@
 - text: "you will be financiall ruined today. Your husband will leave you - but not today."
   gender: f
 - text: "avoid ladders today. Either it's going to be bad luck or worse luck."
+  gender: d
+- text: "You're about Fall in love with someone who isn't as spontaneous as you."
   gender: d

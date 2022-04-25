@@ -3,7 +3,7 @@ layout: horrorscope
 ---
 
 {%- assign pnum = page.path | split: "/" | last | split: "." | first %}
-{%- assign daydata = site.data[pnum] %}
+{%- assign daydata = site.data.horrorscope[pnum] %}
 
 {%- assign year = pnum | slice: 0,4 %}
 {%- assign month = pnum | slice: 4,2 | abs %}
@@ -32,10 +32,10 @@ layout: horrorscope
   </div>
 
   <div class="body">
-  {%- assign fn = daydata[cnt].names.female | abs %}
-  {%- assign fs = daydata[cnt].sayings.female | abs %}
-  {%- assign mn = daydata[cnt].names.male | abs %}
-  {%- assign ms = daydata[cnt].sayings.male | abs %}
+  {%- assign fn = daydata[cnt].n[0] | abs %}
+  {%- assign fs = daydata[cnt].s[0] | abs %}
+  {%- assign mn = daydata[cnt].n[1] | abs %}
+  {%- assign ms = daydata[cnt].s[1] | abs %}
 
     <span class="text female">{{ site.data.names.female[fn] }} {{ site.data.sayings[fs].text }}</span>
     <span class="text male">{{ site.data.names.male[mn] }} {{ site.data.sayings[ms].text }}</span>
