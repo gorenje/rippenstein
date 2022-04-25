@@ -47,7 +47,7 @@
          var year = elem.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.firstChild.firstChild.innerHTML;
 
          if ( day.length == 1 ) { day = "0" + day; }
-         var link = ""+year+monthLookup[month]+day;
+         var link = "/horrorscope/"+year+monthLookup[month]+day;
          elem.addEventListener('click', function() {
            window.location = link;
          })
