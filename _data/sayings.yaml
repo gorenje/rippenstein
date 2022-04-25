@@ -1,48 +1,52 @@
-- text: "your husband will leave you for another man."
-  gender: f
-- text: "your car will be stolen and dumped into a river close to your home."
+- text: "your partner will leave you. But at least you get to continue paying the mortgage on the house."
   gender: d
-- text: "a car will runover your only child. It will be badly hurt but not killed."
+- text: "your car will be stolen today. Good news it's going to be dumped into a river near your home."
   gender: d
-- text: "today your wife won't clean the car since she will start an affair."
-  gender: m
-- text: "you won't win the lottery today, nor ever in fact."
+- text: "today your partner will start an affair. Not much else to say really."
   gender: d
-- text: "it's probably better that you don't get out of bed. All your work colleges are preparing to harass you."
+- text: "you won't win the lottery today, nor, in fact, ever. Best stop playing. But you do know what will happen then..."
   gender: d
 - text: "some things are best left untouched. Avoid the kitchen today else you will burn yourself."
   gender: d
-- text: "the only thing that will rise for you today is the sun. But your wife will still be getting hers."
+- text: "the only thing that will rise for you today is the sun. But your partner will still be getting theirs."
   gender: m
-- text: "you name sucks and that's what you'll be doing all day."
-  gender: d
 - text: "avoid getting home too early tonight, the postman hasn't got any letters for you."
   gender: d
 - text: "what were you thinking last night? Well at least no one got hurt - which won't be the case today."
   gender: d
-- text: "avoid anything with electricity today. But then again you are so clumsy..."
+- text: "avoid anything with electricity today. But then again you are so clumsy."
   gender: d
-- text: "today is not the day for outdoor activities. Remember most accidents happen at home, just as in your case."
+- text: "today is not the day for outdoor activities. However most accidents happen at home, just as in your case."
   gender: d
 - text: "don't worry today won't be as bad as yesterday, it will be worse."
   gender: d
-- text: "today you will discover who your biological father is. And he will know he has a child."
+- text: "today you will discover who your biological father is. And he will discover he has a child."
   gender: d
-- text: "today your husband will announce that he is having children with your sister. The ugly sister."
+- text: "today your husband will announce that he is having children with your sister, the ugly sister."
   gender: f
+- text: "today your wife will announce that she is having a child with your brother, the ugly brother."
+  gender: m
 - text: "today all windows are high enough. But it will only end with a broken leg."
   gender: d
-- text: "remember when you skipped all those swimming lessons? Will today is a good day to stay away from water."
+- text: "remember when you skipped all those swimming lessons? Today is a good day to stay *away* from water."
   gender: d
 - text: "be careful carrying metal objects today. Lightening, in your case, does strike twice."
   gender: d
 - text: "your house will burn down today. Unfortunately the insurance expired last month."
   gender: d
-- text: "todays first mistake was getting out of bed. Avoid the second mistake."
+- text: "todays first mistake was getting out of bed, avoid the second mistake of opening your mouth."
   gender: d
-- text: "you will be financiall ruined today. Your husband will leave you - but not today."
+- text: "you will be financially ruined today. Your husband will leave you, but on the bright side, not today."
   gender: f
 - text: "avoid ladders today. Either it's going to be bad luck or worse luck."
   gender: d
-- text: "You're about Fall in love with someone who isn't as spontaneous as you."
+- text: "you are about Fall in love with someone who isn't as spontaneous as you are."
+  gender: d
+- text: "you will be financially ruined today. Also your partner will leave you - but not today."
+  gender: d
+- text: "that exam you're taking today will be a failure. Pity it's your last attempt."
+  gender: d
+- text: "not everyone gets mugged and survives without a scratch. That will be todays silver lining."
+  gender: d
+- text: "playing bocce normally does not lead to injury. A broken toe is annoying. Cause: your drop a bocce ball on it. Now that is embarrassing."
   gender: d

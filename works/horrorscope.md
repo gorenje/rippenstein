@@ -18,8 +18,8 @@ Crystal Balls, Tarot Cards, Tea Leafs and other assorted earlier technologies ha
 
 Anxiety of the future will become a thing of the past. Being replaced by a fear of the HorrorScope and its predictive prowess.
 
-Work in progress.
-
 Gregorius, when interviewed to this work, describe it as a *poke in the eye for those with eyes*. Traditional horoscopes are generally non-specific but with enough interpretation, seem to fit to everyone everyday. But because of their interpretative nature, they predictive powers are limited or non-existent.
 
 HorrorScopes, on the other hand, are dangerously specific however are correct as often as any good horoscope, i.e. 0.00001% of the time. The unfortunate feature is that when a HorrorScope happens to be correct, it only results in more misery for the world. And with that HorrorScopes have something in common with politics.
+
+[Beta Version]({{ data.offsiteurl }})

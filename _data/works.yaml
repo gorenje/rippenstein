@@ -40,6 +40,7 @@ ffth:
 horrorscope:
   name: HorrorScope
   url: /works/horrorscope
+  offsiteurl: /horrorscope
   slogan: "Demystification of tomorrow is todays aspiration."
   image: /f/i/wip.png
 
