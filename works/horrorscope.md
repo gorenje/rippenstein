@@ -18,14 +18,18 @@ Crystal Balls, Tarot Cards, Tea Leafs and other assorted earlier technologies ha
 
 Anxiety of the future will become a thing of the past - the blissful fear of the HorrorScope replacing the antiquated anxieties of the past.
 
-Gregorius describes this work as a *poke in the eye for those with eyes*.
+Gregorius describes this work as a "*poke in the eye for those with eyes*".
 
-And continuing: *Traditional horoscopes are generally non-specific with enough interpretation, seem to fit to everyone everyday. But because of their interpretative nature, they predictive powers are limited or non-existent.*
+And continuing:
+
+> *Traditional horoscopes are generally non-specific with enough interpretation, seem to fit to everyone everyday. But because of their interpretative nature, they predictive powers are limited or non-existent.*
 
 HorrorScopes, on the other hand, are dangerously specific however are correct as often as any good horoscope, i.e. 0.00001% of the time. The unfortunate feature is that when a HorrorScope happens to be correct, it only results in more worldly misery.
 
 [Go to Calendar]({{ data.offsiteurl }})
 [Go to Today](/horrorscope/YYYYMMDDD){: .todaylink }
+
+*Warning*: As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured the certainity of the future is that there is a future but not much else.
 
 <script type="text/javascript">
 var add0 = function(r){ return (r < 10 ? "0" : "") + r; }
