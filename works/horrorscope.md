@@ -6,19 +6,21 @@ layout: works
 {% assign data=site.data.works.horrorscope %}
 {% include worksection.html data=data %}
 
-Our future is shrouded in a fog of the unknown. Gregorius has taken it upon himself to make a change for the better. Having been spiritually touched, Gregorius has been lucky enough to have peeked behind the curtains of the future.
+Our future is shrouded in a fog of the unknown. Gregorius having been lucky enough to have peeked behind the curtains of the future, has taken it upon himself to make a change for the better.
 
-Traditional horoscopes are horribly general and can fit to nearly any situation, making them useless for everyday use. HorrorScopes are highly optimised providing a detailed and for some, accurate account of the future.
+Traditional horoscopes are horribly general and can represent nearly any situation, making them useless for everyday use. HorrorScopes are highly optimised prediction technology. Providing a detailed and (for some) accurate account of the future.
 
-Having gained a large seven figure investment from the seven largest futuring funds, HorrorScopes provides an unbounded and unparalleled clarity into the fogified future.
+Having gained a largish seven figure round-A seedfunding from (at least) the seven largest futuring funds, HorrorScopes provides unbounded and unparalleled clarity into the future.
 
-Powered by the DefEng (Defogification Engine&reg;) and based on the latest advancement of IMT (Infinite Monkeys Technology&reg;), HorrorScope provides a solid basis for Web 3.2.
+Powered by the DefEng - Defogification Engine&reg; - and based on the latest and greatest advancement of IMT - **Infinite Monkeys Technology&reg;**, HorrorScope provides a solid basis for Web 3.2.
 
-Crystal Balls, Tarot Cards, Tea Leafs and other assorted earlier technologies have been infinitely hyperised by a harmonisation of IMT&reg; and DefEng&reg; breakthroughs.
+Older technology such as Crystal Balls, Tarot Cards, Tea Leafs, amongst others have been hyperised and integrated by a harmonisation of IMT&reg; and DefEng&reg; breakthroughs and learnings.
 
-Anxiety of the future will become a thing of the past - the blissful fear of the HorrorScope replacing the antiquated anxieties of the past.
+Anxiety of the future will become a thing of the past, being blissful replaced by the fear of HorrorScopes. The antiquated anxieties of the yesteryears will become just that: antiquated.
 
-Gregorius describes his work as a "*poke in the eye for those with eyes*".
+Gregorius describes his work as a:
+
+> *poke in the eye for those with eyes*
 
 And follows up with:
 
@@ -30,6 +32,8 @@ And follows up with:
 [Go to Today](/horrorscope/YYYYMMDDD){: .todaylink }
 
 *Warning*: As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured that the only certainity of the future is that there is a future.
+
+*And always remember:* Predicting the future is not about being right tomorrow, it's about convincing someone today.
 
 <script type="text/javascript">
 var add0 = function(r){ return (r < 10 ? "0" : "") + r; }

@@ -19,7 +19,38 @@ a {
     font-style: italic;
 }
 
+.table {
+    display: table;
+}
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
+
+.algn_right {
+    text-align: right;
+}
+.algn_center {
+    text-align: center;
+}
+.algn_left {
+    text-align: left;
+}
+
+.w33 {
+    width: 33%;
+}
+.w50 {
+    width: 50%;
+}
+.w100 {
+    width: 100%;
+}
 .footer-div {
+    width: 100%;
     font-size: 70%;
     border-top: 1px solid #eee;
     padding-top: 4px;
@@ -27,14 +58,23 @@ a {
     margin-bottom: 14px;
 }
 
-.footer-div span {
-    padding-top: 4px;
-    float: right;
+.footer-div span.copyright {
+    text-aligh: center;
+}
+
+.copyright {
+    padding-top: 20px;
 }
 
 h2 {
     font-weight: 700;
     font-size: 110%;;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 50%;;
 }
 
 body {
