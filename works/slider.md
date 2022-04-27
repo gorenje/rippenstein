@@ -20,7 +20,7 @@ Data is stored on our holistic servers but anonymously. The connection between y
 
 ## What do the colours mean?
 
-Instead of defining a range between binary values, [Sldr.in](https://sldr.in) defines two colours. Meaning and intrepretation of these colours is left up to the human doing the sliding. [Sldr.in](https://sldr.in) provides 1) a topic, e.g., [Gender](https://gender.sldr.in), 2) a slider and 3) two colours.
+Instead of defining a range between binary values, [Sldr.in](https://sldr.in) defines two colours. Meaning and interpretation of these colours is left up to the human doing the sliding. [Sldr.in](https://sldr.in) provides 1) a topic, e.g., [Gender](https://gender.sldr.in), 2) a slider and 3) two colours.
 
 **Sldr.in does not provide an interpretation nor meaning nor wisdom nor understanding nor insights - it's all in your head.**
 
