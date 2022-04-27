@@ -10,13 +10,13 @@ Our future is shrouded in a fog of the unknown. Gregorius having been lucky enou
 
 Traditional horoscopes are horribly general and can represent nearly any situation, making them useless for everyday use. HorrorScopes are highly optimised prediction technology. Providing a detailed and (for some) accurate account of the future.
 
-Having gained a largish seven figure round-A seedfunding from (at least) the seven largest futuring funds, HorrorScopes provides unbounded and unparalleled clarity into the future.
+The seven largest and finest futuring funds have come together to provide (largish) seven-figure A-round seed-funding. With that, HorrorScope&reg; is able to provide unparalleled clarity and unbounded timeframes into the future.
 
-Powered by the DefEng - Defogification Engine&reg; - and based on the latest and greatest advancement of IMT - **Infinite Monkeys Technology&reg;**, HorrorScope provides a solid basis for Web 3.2.
+Powered by the DefEng - **Defogification Engine&reg;** - and based on the latest and greatest advancement of IMT - **Infinite Monkeys Technology&reg;**, HorrorScope provides a solid basis for Web 3.2.
 
-Older technology such as Crystal Balls, Tarot Cards, Tea Leafs, amongst others have been hyperised and integrated by a harmonisation of IMT&reg; and DefEng&reg; breakthroughs and learnings.
+Older technology such as Crystal Balls, Tarot Cards, Tea Leafs (amongst others) have been incorporated and hyperised by a harmonisation of IMT and DefEng breakthroughs and learnings.
 
-Anxiety of the future will become a thing of the past, being blissful replaced by the fear of HorrorScopes. The antiquated anxieties of the yesteryears will become just that: antiquated.
+Anxiety of the future will become a thing of the past, being blissful replaced by the fear of HorrorScopes. The antiquated anxieties of yesteryears will become just that: antiquated.
 
 Gregorius describes his work as a:
 
@@ -24,14 +24,16 @@ Gregorius describes his work as a:
 
 And follows up with:
 
-> *Traditional horoscopes are generally non-specific with enough interpretation, seem to fit to everyone everyday. But because of their interpretative nature, they predictive powers are limited or non-existent.*
+> *Traditional horoscopes are extremely non-specific and with enough interpretation, seem to fit to everyone everyday. Because of their interpretative nature, they predictive powers are limited or non-existent.*
 
-> *HorrorScopes, on the other hand, are dangerously specific however are correct as often as any good horoscope, i.e. 0.00001% of the time. The unfortunate feature is that when a HorrorScope happens to be correct, it only results in more worldly misery.*
+> *HorrorScopes, on the other hand, are dangerously specific. Unfortunately their correctiveness is bearly as good as traditional horoscopes, i.e., hardly ever.
 
-[Go to Calendar]({{ data.offsiteurl }})
-[Go to Today](/horrorscope/YYYYMMDDD){: .todaylink }
+> *But when a HorrorScope happens to be correct, it only results in more worldly misery. Thankfully there has been no known incidence of "HorrorScope Correctness".*
 
-*Warning*: As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured that the only certainity of the future is that there is a future.
+[Calendar]({{ data.offsiteurl }})
+[Todays HorrorScope](/horrorscope/YYYYMMDDD){: .todaylink }
+
+*Warning*: As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured that the only certainty of the future is that there is a future.
 
 *And always remember:* Predicting the future is not about being right tomorrow, it's about convincing someone today.
 
