@@ -6,21 +6,23 @@ layout: works
 {% assign data=site.data.works.sldr %}
 {% include worksection.html data=data %}
 
-Be it sliding on ice or sliding down a slide or even sliding on the floor, none of these bare any relationship to the gender slider.
+<span class="quote_large">Are you still swiping or have you slid into the future?</span>
 
-Having realised that gender (and generally everything) is becoming fluid, Gregorius designed the gender slider. It has a single purpose: *allow users to track their gender status without being tracked*.
+Be it sliding on ice or sliding down a slide or even sliding on the floor, none of these bare any relationship to the **Gender Slider**&reg;.
 
-Its incredible simply design focuses on the essential: *slide the slider and you're done*. There is no sign up, no data and no bullshit.
+Having realised that gender (and generally everything) is becoming fluid, Gregorius designed the gender slider. It has a single purpose: *allow humans to track their gender status without being tracked*.
 
-Ok, that's only two-thirds true, there is data.
+Its incredible simply design focuses on the essential: *slide the slider and you're done* principle. There is no sign up, no data and no bullshit.
 
-Data is stored on the server side but anonymously. The link to your data is your cookie and if you delete the cookie, the link to your data is gone. *Data on the server side is only linked to you via your cookie.*
+Admittedly, that's only two-thirds true, there is data.
+
+Data is stored on our holistic servers but anonymously. The connection between you and your data is your cookie and if you delete that browser cookie, the connection to you is gone. *Data on the server side is only linked to you via your browser cookie.*
 
 ## What do the colours mean?
 
-Instead of defining a range of binary values,  [Sldr.in](https://sldr.in) defines two colours. Meaning and intrepretation of these colours is left up to the user. [Sldr.in](https://sldr.in) provides a topic, e.g., [Gender](https://gender.sldr.in), a slider and two colours.
+Instead of defining a range between binary values, [Sldr.in](https://sldr.in) defines two colours. Meaning and intrepretation of these colours is left up to the human doing the sliding. [Sldr.in](https://sldr.in) provides 1) a topic, e.g., [Gender](https://gender.sldr.in), 2) a slider and 3) two colours.
 
-*Sldr.in does not provide an interpretation nor meaning nor wisdom nor understanding nor insights - it's all in your head.*
+**Sldr.in does not provide an interpretation nor meaning nor wisdom nor understanding nor insights - it's all in your head.**
 
 Constant usage will cause the colours to change over time - even if ever so slightly.
 
@@ -32,7 +34,7 @@ The "left eye" shows you an average colour over the last seven days, i.e., the w
 
 What an "average" colour looks like is defined by the colour range of the current colours. Gregorius and his Elves didn't spend all that much time coming up with the colour scheme.
 
-At the bottom there is a graph over the last ten days of sliding activity.
+At the bottom there is a graph of the last ten days of sliding excitement.
 
 ## Colour blind?
 
@@ -44,19 +46,21 @@ Unfortunately this is only for people who suffer from non-colour-blindness. Ther
 
 The Elves are busy working on a new version that will store data in your browser. Thus data will be stored on each device separately.
 
-This will imply that you won't be able to share data across devices but it also means that data isn't stored on expensive server-side hard drives - your data, you pay!
+This will imply that you won't be able to share data across devices but it also means that data isn't stored on expensive server-side hard drives - *your data, you pay*!
 
 But until the Elves completely this, data continues to be stored on the server but anonymously and without meaning.
 
 ## But what if I'm a CIS person?
 
-If don't particularly what to slide your gender, there are four other sliders available: [mood](https://mood.sldr.in), [politics](https://politics.sldr.in), [weather](https://weather.sldr.in) and [gratitude](https://gratitude.sldr.in) - each provide the same non-interpretative features of the gender slider.
+If don't particularly want to fluidify your gender, there are four other sliders available: [mood](https://mood.sldr.in), [politics](https://politics.sldr.in), [weather](https://weather.sldr.in) and [gratitude](https://gratitude.sldr.in) - each providing the same non-interpretative and meaningless features of the Gender Slider.
 
-## Can I request another slider?
+## Can I request another slider topic?
 
-No. But that doesn't mean that this answer isn't fluid.
+No. But that doesn't mean that this answer is final.
 
 If you have a specific topic on which you would like to slide, you could also just reinterpret the topic the slider to be something else - Gregorius doesn't mind nor care!
+
+*Protip:* [Pay4Pro](/pay4pro) provides motivational inspiration for Elves and Humans alike.
 
 ## I tried it out but it seems broken ...
 
@@ -68,14 +72,10 @@ It also might be the case that the cheap-scape Gregorius didn't get a large enou
 
 The *No Edit Button*&#174; feature provides for a stable history. There is no going back and changing your mind.
 
-However, since this requested is quite popular, Gregorius did ask the Elves and they replied:
-
-*Make us care more, pay us more!*
+However, since this requested is quite popular, Gregorius did ask the Elves. Their reply: *Make us care more, pay us more!*
 
 ## Testimonials
 
-*Swiping is the past, Sldr.in is the future.* - Gregorius Rippenstein
+*Swiping is the past, Sldr.in is the future.* - Some User
 
-*Are you still swiping or have you sldr.in into the future?* - Gregorius Rippenstein
-
-*Sldr.in colourified my life.* - Gregorius Rippenstein
+*Sldr.in colourified my life and gave it no additional meaning.* - Some Other User
