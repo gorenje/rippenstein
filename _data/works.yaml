@@ -14,9 +14,10 @@ sldr:
 
 ninetynine:
   name: 99.99999.fyi
-  url: https://99.99999.fyi
-  slogan: Feeling small in large world.
+  url: /works/sevennines
+  slogan: Feeling small and alone in a large world.
   image: "/f/i/7x9.png"
+  offsiteurl: https://99.99999.fyi
 
 up:
   name: Urban Photogrammetry
