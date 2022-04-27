@@ -22,7 +22,7 @@ a.bgb {
    color: #eee;
    text-align: center;
    border: 2px solid green;
-   background-color: #4cee35;
+   background-color: #4CAF50;
    padding: 20px;
    width: 90%;
    margin-top: 30px;
@@ -32,7 +32,7 @@ a.bgb {
 }
 
 a.bgb:hover {
-  background-color: #4CAF50; /* Green */
+  background-color: #4cee35;
 }
 
 h2 {
