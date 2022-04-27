@@ -22,11 +22,15 @@
 }
 
 .work_name {
+    font-family: "Saira", sans-serif;
     color: #eee;
     text-transform: uppercase;
     height: 50%;
     display: table-cell;
     vertical-align: bottom;
+    font-size: 16pt;
+    font-size: min(6vw,65px);
+    font-weight: 900;
 }
 
 .work_slogan {
@@ -34,6 +38,10 @@
     height: 50%;
     display: table-cell;
     vertical-align: bottom;
+    font-family: "Saira", sans-serif;
+    color: #eee;
+    font-style: italic;
+    font-size: min(4.5vw,25px);
 }
 
 .works_text_container {
@@ -75,19 +83,11 @@
         background-color: #612626;
 
     }
-    .work_slogan {
-        font: 25pt/0.9 "Saira", sans-serif;
-        color: #eee;
-        font-style: italic;
-    }
     .last_name  {
         font: 40pt/1.0 "Saira", sans-serif;
         color: #eee;
         text-transform: uppercase;
         display: block;
-    }
-    .work_name  {
-        font: 40pt/1.0 "Saira", sans-serif;
     }
 }
 
@@ -121,19 +121,11 @@
         display: block;
         background-color: #612626;
     }
-    .work_slogan {
-        font: 20pt/0.9 "Saira", sans-serif;
-        color: #eee;
-        font-style: italic;
-    }
     .last_name {
         font: 30pt/1.0 "Saira", sans-serif;
         color: #eee;
         text-transform: uppercase;
         display: block;
-    }
-    .work_name {
-        font: 30pt/1.0 "Saira", sans-serif;
     }
 }
 
@@ -165,19 +157,11 @@
         display: block;
         background-color: #612626;
     }
-    .work_slogan {
-        font: 16pt/0.9 "Saira", sans-serif;
-        color: #eee;
-        font-style: italic;
-    }
     .last_name {
         font: 24pt/1.0 "Saira", sans-serif;
         color: #eee;
         text-transform: uppercase;
         display: block;
-    }
-    .work_name {
-        font: 24pt/1.0 "Saira", sans-serif;
     }
     .footer-div {
         font-size: 75%;
@@ -212,18 +196,10 @@
         display: block;
         background-color: #612626;
     }
-    .work_slogan {
-        font: 14pt/0.9 "Saira", sans-serif;
-        color: #eee;
-        font-style: italic;
-    }
     .last_name {
         font: 18pt/1.0 "Saira", sans-serif;
         color: #eee;
         text-transform: uppercase;
         display: block;
-    }
-    .work_name {
-        font: 16pt/1.0 "Saira", sans-serif;
     }
 }
