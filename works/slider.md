@@ -20,25 +20,31 @@ Data is stored on our holistic servers but anonymously. The connection between y
 
 ## What do the colours mean?
 
-Instead of defining a range between binary values, [Sldr.in](https://sldr.in) defines two colours. Meaning and interpretation of these colours is left up to the human doing the sliding. [Sldr.in](https://sldr.in) provides 1) a topic, e.g., [Gender](https://gender.sldr.in), 2) a slider and 3) two colours.
+Instead of defining a range between two values, [Sldr.in](https://sldr.in) defines two colours.
+
+**Meaning and interpretation of these colours is left up to the human doing the sliding.**
+
+[Sldr.in](https://sldr.in) provides 1) a topic, e.g., [Gender](https://gender.sldr.in), 2) a slider and 3) two colours.
 
 **Sldr.in does not provide an interpretation nor meaning nor wisdom nor understanding nor insights - it's all in your head.**
 
 Constant usage will cause the colours to change over time - even if ever so slightly.
 
+**Sldr.in does not know nor want to know what these colours mean for you. Hence it's in your head not on our servers.**
+
 ## But wait there are three colours?
 
-[Sldr.in](https://sldr.in/) displays three colours: the "nose" shows your current colour, i.e., the one you swiped today.
+[Sldr.in](https://sldr.in/) displays three colours: the "nose" shows your current colour, i.e., the one you slid today.
 
 The "left eye" shows you an average colour over the last seven days, i.e., the weak eye. The "right eye" shows you an average over the last thirty days, i.e., the mouth eye.
 
-What an "average" colour looks like is defined by the colour range of the current colours. Gregorius and his Elves didn't spend all that much time coming up with the colour scheme.
+Gregorius and his Elves didn't spend all that much time coming up with the colour schemes. That's why "average" colours might not make sense but just think about it and eventually something will happen.
 
-At the bottom there is a graph of the last ten days of sliding excitement.
+Finally, at the bottom there is a graph of the last ten days of sliding excitement.
 
 ## Colour blind?
 
-*Art isn't for everyone and my art is for no-one.* - Gregorius Rippenstein
+> Art isn't for everyone and my art is for no-one. <br>&nbsp;&nbsp;&nbsp;- Gregorius Rippenstein
 
 Unfortunately this is only for people who suffer from non-colour-blindness. There are no plans to design a version that works without colours.
 
@@ -46,13 +52,13 @@ Unfortunately this is only for people who suffer from non-colour-blindness. Ther
 
 The Elves are busy working on a new version that will store data in your browser. Thus data will be stored on each device separately.
 
-This will imply that you won't be able to share data across devices but it also means that data isn't stored on expensive server-side hard drives - *your data, you pay*!
+This implies that you won't be able to share data across devices but it also means that data isn't stored on expensive server-side hard drives - *your data, you pay* principle.
 
-But until the Elves completely this, data continues to be stored on the server but anonymously and without meaning.
+But until the Elves complete this arduous task, data continues to be stored on the server but anonymously and without meaning.
 
 ## But what if I'm a CIS person?
 
-If don't particularly want to fluidify your gender, there are four other sliders available: [mood](https://mood.sldr.in), [politics](https://politics.sldr.in), [weather](https://weather.sldr.in) and [gratitude](https://gratitude.sldr.in) - each providing the same non-interpretative and meaningless features of the Gender Slider.
+If don't particularly want to fluidify your gender, there are four other fluidifications available: [mood](https://mood.sldr.in), [politics](https://politics.sldr.in), [weather](https://weather.sldr.in) and [gratitude](https://gratitude.sldr.in) - each providing the same non-interpretative and meaningless (for outsiders) features of the Gender Slider.
 
 ## Can I request another slider topic?
 
@@ -64,18 +70,18 @@ If you have a specific topic on which you would like to slide, you could also ju
 
 ## I tried it out but it seems broken ...
 
-Well then it's probably broken. [Sldr.in](https://sldr.in) is one giant [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) with a bunch of Javascript that might or might not work in your browser. The Elves have informed Gregorius that there is nothing that can be done.
+Well then it's probably broken. [Sldr.in](https://sldr.in) is one giant [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) with a bunch of Javascript that might or might not work in your browser. The Elves have been informed but there is nothing that can be done.
 
-It also might be the case that the cheap-scape Gregorius didn't get a large enough database and that the database is full. In which case there is nothing that can be done. Except perhaps [donating](https://www.paypal.com/donate/?hosted_button_id=SXBPWPT59LHFS) to one of Gregorius many off-shore shell companies!
+It also might be the case that the cheap-scape Gregorius didn't get a large enough database and that the database is full. In which case there is nothing that can be done. Except perhaps [donating](https://www.paypal.com/donate/?hosted_button_id=SXBPWPT59LHFS) to one of Gregorius many off-shore shell companies.
 
 ## Hey, there is no edit button - this feels like Twitter
 
 The *No Edit Button*&#174; feature provides for a stable history. There is no going back and changing your mind.
 
-However, since this requested is quite popular, Gregorius did ask the Elves. Their reply: *Make us care more, pay us more!*
+However, since this requested is quite popular, Gregorius did ask the Elves. They replied: *make us care more, pay us more!*
 
 ## Testimonials
 
 *Swiping is the past, Sldr.in is the future.* - Some User
 
-*Sldr.in colourified my life and gave it no additional meaning.* - Some Other User
+*Sldr.in has colourified my life and given it no additional meaning - I love it.* - Some Other User

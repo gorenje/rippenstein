@@ -3,7 +3,6 @@ permalink: /works/ffth
 layout: works
 ---
 
-
 {% assign data=site.data.works.ffth %}
 {% include worksection.html data=data %}
 
