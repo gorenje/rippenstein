@@ -16,4 +16,4 @@ Next time purchase a flower in a pot.
 
 Nurtue and love that flower as you do the person for whom you purchased the flower.
 
-### P.S.: Any other possible meanings of *DGAF* are purely in the readers head.
+### P.S.: Any other possible meanings of *DGAF* are purely coincidental or in the readers head.

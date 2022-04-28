@@ -21,13 +21,13 @@ What to do?
 
 One possibility is to tell someone else about the story. But that would just be passing the buck onto someone else who would need to bear the emotional baggage.
 
-Another possibility is simply to writing these stories down. Some still maintain diaries of their daily happenings.
+Another possibility is simply to writing these stories down. Some maintain diaries of their daily happenings and some just write stories.
 
-Ironically to help others with their issues it is helpful to publish these stories.
+Ironically, to help others with their problems, it is helpful to publish these stories.
 
-Anonymously of course.
+Anonymously of course. And what is more anonymous than animals?
 
-No one should be alone with their mundane, everyday problems. Especially since everyone has the same mundane problems.
+No one should be alone with their mundane, everyday problems. And they are mundane and everyday since everyone has the same problems everyday - *you are not alone*.
 
 [Take me to your fables]({{ data.offsiteurl }})
 
