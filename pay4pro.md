@@ -7,13 +7,21 @@ layout: default
 
 Pay4Pro&reg; technology has been refined and honed on the basis of research carried out by internationally funded myth-building co-operations.
 
+## Proven
+
 A vast number of myth-researching groups have all come to the same conclusion on the correlation between the freedom of an *ideas developer* (sometimes known as *author*) and their respective financial freedoms (sometimes referred to as *bank account*). Research groups have concluded that there is an overall one-to-one relation between ideas and financial freedoms: *the more financial freedoms, the more ideas*.
 
-This surprisingly simple relationship has been confirmed by many empirical studies. The correlation - commonly known as *monetary based motivation* - has been found to be complete, thorough and correct.
+## Simple
 
-In addition, the icebreaking technologies incorporated in Pay4Pro&reg; allow *idea developers* to participate in and occasionally fund events of inebriated intellectual intercourse providing a wealth of new ideas and headaches.
+This surprisingly simple relationship has been confirmed by many empirical studies. The correlation - commonly known as *much money makes much motivation* - has been found to be complete, correct and thoroughly great.
 
-Pay4Pro&reg; builds on the  groundbreaking BGB technology (aka *Big Green Button*) developed in the late 1990s. Engagement with the BGB is initiated using click-technology integrated into pointer devices. After that, the level of continued engagement, both financial and interactional, is directly related to the amount of procrastination enjoyed by reading these words.
+## Extendable
+
+In addition, the icebreaking technologies extend Pay4Pro&reg; to allow *idea developers* to participate in and occasionally fund events of inebriated intellectual intercourse providing a wealth of new ideas and headaches.
+
+## Solid
+
+Pay4Pro&reg; builds on the solidly proven BGB technology (aka *Big Green Button*) developed in the late 1990s. Engagement with the BGB is initiated using click-technology integrated into pointer devices. After that, the level of continued engagement, both financial and interactional, is directly related to the amount of procrastination enjoyed by reading these words.
 
 <style>
 a.bgb {
@@ -39,4 +47,4 @@ h2 {
 
 </style>
 
-[Pay4Pro](https://www.paypal.com/donate/?hosted_button_id=SXBPWPT59LHFS){: .bgb }
+[Pay4Pro *Now!*](https://www.paypal.com/donate/?hosted_button_id=SXBPWPT59LHFS){: .bgb }

@@ -10,7 +10,7 @@ Our future is shrouded in a fog of the unknown. Gregorius having been lucky enou
 
 Traditional horoscopes are horribly general and can represent nearly any situation, making them useless for everyday use. HorrorScopes are highly optimised prediction technology. Providing a detailed and (for some) accurate account of the future.
 
-The seven largest and finest futuring funds have come together to provide (largish) seven-figure A-round seed-funding. With that, HorrorScope&reg; is able to provide unparalleled clarity and unbounded timeframes into the future.
+The seven largest and finest futuring funds have come together to provide a seven-figure A-round seed-funding. With that, HorrorScope&reg; is able to view, with unparalleled clarity and unlimited timeframes, into the future.
 
 Powered by the DefEng - **Defogification Engine&reg;** - and based on the latest and greatest advancement of IMT - **Infinite Monkeys Technology&reg;**, HorrorScope provides a solid basis for Web 3.2.
 
@@ -20,22 +20,22 @@ Anxiety of the future will become a thing of the past, being blissful replaced b
 
 Gregorius describes his work as a:
 
-> *poke in the eye for those with eyes*
+> *A poke in the eye for those with eyes*
 
 And follows up with:
 
 > *Traditional horoscopes are extremely non-specific and with enough interpretation, seem to fit to everyone everyday. Because of their interpretative nature, they predictive powers are limited or non-existent.*
 
-> *HorrorScopes, on the other hand, are dangerously specific. Unfortunately their correctiveness is bearly as good as traditional horoscopes, i.e., hardly ever.
+> HorrorScopes, on the other hand, are dangerously specific. Unfortunately their correctiveness is bearly as good as traditional horoscopes, i.e., hardly ever.
 
 > *But when a HorrorScope happens to be correct, it only results in more worldly misery. Thankfully there has been no known incidence of "HorrorScope Correctness".*
 
-[Calendar]({{ data.offsiteurl }})
 [Todays HorrorScope](/horrorscope/YYYYMMDDD){: .todaylink }
+[Calendar]({{ data.offsiteurl }}){: .calendar }
 
-*Warning*: As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured that the only certainty of the future is that there is a future.
+*Warning:* As the Monkeys become yet more infinite, predictions may be adjusted and/or refined and/or changed. Be assured that the only certainty of the future is that there is a future.
 
-*And always remember:* Predicting the future is not about being right tomorrow, it's about convincing someone today.
+*Danger:* Predicting the future is not about being right tomorrow, it's about convincing someone today.
 
 <script type="text/javascript">
 var add0 = function(r){ return (r < 10 ? "0" : "") + r; }
@@ -54,7 +54,5 @@ window.onload = replaceTodayLink;
 </script>
 
 <style>
-.todaylink {
-float: right;
-}
+.calendar { float: right; }
 </style>

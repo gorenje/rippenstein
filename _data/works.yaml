@@ -51,3 +51,15 @@ tankmeister:
   url: /works/tankmeister
   slogan: "Because petrol doesn't grow on trees."
   image: /f/i/tankmeister.png
+
+wip:
+  name: "Works In Progress"
+  url: /works/wip
+  slogan: "Because Progress is Everything."
+  image: /f/i/wip.png
+
+change:
+  name: "Change"
+  url: /works/wip
+  slogan: "Small steps to change a large World."
+  image: /f/i/wip.png
