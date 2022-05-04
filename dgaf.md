@@ -14,6 +14,6 @@ We then proceed to put those flowers into a vase with water. We then begin to ob
 
 Next time purchase a flower in a pot.
 
-Nurtue and love that flower as you do the person for whom you purchased the flower.
+Nurture and love that flower as you do the person for whom you purchased the flower.
 
 ### P.S.: Any other possible meanings of *DGAF* are purely coincidental or in the readers head.
