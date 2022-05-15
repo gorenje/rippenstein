@@ -1,8 +1,7 @@
 ---
 permalink: /pay4enj
-layout: default
+layout: with_name
 ---
-
 
 ## Pay for Enjoyment Technology
 
