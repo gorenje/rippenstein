@@ -1,6 +1,6 @@
-{% assign data = include.name %}
-
 <div class="heart_container">
-  <img src="/f/i/heart/{{ include.name  }}" class="heart_image {{ include.ovrcls }}"/>
+  <img src="/f/i/heart/{{ include.name  }}" class="heart_image {{ include.ovrcls }}" srcset="{{ include.srcset }}" sizes="(min-width: 36em) 33.3vw, 100vw"/>
+  {%- if include.desc %}
   <div class="heart_topleft">{{ include.desc }}</div>
+  {%- endif %}
 </div>
