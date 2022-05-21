@@ -64,6 +64,9 @@ The final step is adding the magnets on the back but you might not need that - d
 {% include in_the_wild.html name="in_the_wild_09" %}
 {% include in_the_wild.html name="in_the_wild_10" %}
 {% include in_the_wild.html name="in_the_wild_11" %}
+{% include in_the_wild.html name="in_the_wild_12" %}
+{% include in_the_wild.html name="in_the_wild_13" %}
+{% include in_the_wild.html name="in_the_wild_14" %}
 
 <div style="clear: both;"></div>
 
