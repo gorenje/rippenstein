@@ -24,7 +24,7 @@ It's locked away somewhere. No one has access to it. I'm fairly certain that thi
 
 So instead how about making your own heart and spreading some more happiness and inspiration?
 
-[Project intentions are below.](#about-the-project)
+Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro).
 
 ## Making Of
 
@@ -72,6 +72,10 @@ The final step is adding the magnets on the back but you might not need that - d
 {% include in_the_wild.html name="in_the_wild_17" %}
 {% include in_the_wild.html name="in_the_wild_18" %}
 {% include in_the_wild.html name="in_the_wild_19" %}
+{% include in_the_wild.html name="in_the_wild_20" %}
+{% include in_the_wild.html name="in_the_wild_21" %}
+{% include in_the_wild.html name="in_the_wild_22" %}
+{% include in_the_wild.html name="in_the_wild_23" %}
 
 <div style="clear: both;"></div>
 
