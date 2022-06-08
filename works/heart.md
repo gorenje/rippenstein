@@ -1,7 +1,7 @@
 ---
 permalink: /works/heart
 layout: with_name
-css: heart
+css: heart,quote
 ---
 
 ## Hearts That Can't Be Bought
@@ -90,6 +90,9 @@ Additionally the project highlights that assumption that everything can be bough
 The only way to purchase a heart is with your **conscience**: may you have guilty conscience if you remove beauty and happiness from the public space.
 
 Finally, this project also tries to highlight how horrible [freeports](https://en.wikipedia.org/w/index.php?title=Geneva_Freeport&oldid=1083132905) are for art. Artworks that disappear into these havens are lost to humankind.
+
+<span class="quote">Hearts are given not demanded.</span>
+<span class="quote_signature">- Gregorius Rippenstein</span>
 
 ## Disclaimer
 
