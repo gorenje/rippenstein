@@ -91,7 +91,7 @@ The only way to purchase a heart is with your **conscience**: may you have guilt
 
 Finally, this project also tries to highlight how horrible [freeports](https://en.wikipedia.org/w/index.php?title=Geneva_Freeport&oldid=1083132905) are for art. Artworks that disappear into these havens are lost to humankind.
 
-<span class="quote">Hearts are given not demanded.</span>
+<span class="quote">Hearts are given, not demanded.</span>
 <span class="quote_signature">- Gregorius Rippenstein</span>
 
 ## Disclaimer

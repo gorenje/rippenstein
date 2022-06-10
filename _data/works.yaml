@@ -1,3 +1,9 @@
+heart:
+  name: "Hearts"
+  url: /works/heart
+  slogan: "Hearts made of paper can't be bought."
+  image: /f/i/heart.png
+
 hamoni:
   name: Hamoni
   url: /works/hamoni
