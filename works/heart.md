@@ -24,7 +24,7 @@ It's locked away somewhere. No one has access to it. I'm fairly certain that thi
 
 So instead how about making your own heart and spreading some more happiness and inspiration?
 
-Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro).
+Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro). [Example hearts](/hearts/examples) are also available.
 
 ## Making Of
 
