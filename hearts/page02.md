@@ -23,6 +23,8 @@ css: heart,quote,hearts_examples
 Page 02
 <a href="/hearts/examples/page03">Page 03</a>
 <a href="/hearts/examples/page04">Page 04</a>
+<a href="/hearts/examples/page05">Page 05</a>
+<a href="/hearts/examples/page06">Page 06</a>
 
 <br/>
 <div style="padding-top: 15px;">
