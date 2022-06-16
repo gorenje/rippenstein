@@ -4,17 +4,17 @@ layout: with_name
 css: heart,quote,hearts_examples
 ---
 
-## Examples of Hearts ... that can't be purchased
+## Examples
 
-{% include hearts_examples.html name="000" %}
-{% include hearts_examples.html name="001" %}
-{% include hearts_examples.html name="002" %}
-{% include hearts_examples.html name="003" %}
-{% include hearts_examples.html name="004" %}
-{% include hearts_examples.html name="005" %}
-{% include hearts_examples.html name="006" %}
-{% include hearts_examples.html name="007" %}
-{% include hearts_examples.html name="008" %}
+{% include hearts_examples.html name="052" %}
+{% include hearts_examples.html name="034" %}
+{% include hearts_examples.html name="030" %}
+{% include hearts_examples.html name="026" %}
+{% include hearts_examples.html name="033" %}
+{% include hearts_examples.html name="029" %}
+{% include hearts_examples.html name="013" %}
+{% include hearts_examples.html name="012" %}
+{% include hearts_examples.html name="028" %}
 
 
 <center>
