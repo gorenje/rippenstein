@@ -1,0 +1,23 @@
+
+<center>
+<div class="index-div">
+
+{%- if include.page == "01" %}
+[01]
+{%- else %}
+<a href="/hearts/examples">[01]</a>
+{%- endif %}
+
+{% include hearts_index_page.html page=include.page numpage="02" %}
+{% include hearts_index_page.html page=include.page numpage="03" %}
+{% include hearts_index_page.html page=include.page numpage="04" %}
+{% include hearts_index_page.html page=include.page numpage="05" %}
+{% include hearts_index_page.html page=include.page numpage="06" %}
+
+<br/>
+<div style="padding-top: 15px;">
+<a href="/works/heart">Back to Project Page</a>
+</div>
+
+</div>
+</center>

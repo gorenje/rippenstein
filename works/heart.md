@@ -4,9 +4,9 @@ layout: with_name
 css: heart,quote
 ---
 
-## Hearts That Can't Be Bought
+## Priceless Hearts
 
-If you got this far, then you might have found a heart that you can't buy.
+If you got this far, then you might have found a heart that you can't buy. A priceless heart.
 
 {% include heart_image.html name="title-360.jpg" ovrcls="center" %}
 
@@ -76,6 +76,13 @@ The final step is adding the magnets on the back but you might not need that - d
 {% include in_the_wild.html name="in_the_wild_21" %}
 {% include in_the_wild.html name="in_the_wild_22" %}
 {% include in_the_wild.html name="in_the_wild_23" %}
+{% include in_the_wild.html name="in_the_wild_24" %}
+{% include in_the_wild.html name="in_the_wild_25" %}
+{% include in_the_wild.html name="in_the_wild_26" %}
+{% include in_the_wild.html name="in_the_wild_27" %}
+{% include in_the_wild.html name="in_the_wild_28" %}
+{% include in_the_wild.html name="in_the_wild_29" %}
+{% include in_the_wild.html name="in_the_wild_30" %}
 
 <div style="clear: both;"></div>
 
