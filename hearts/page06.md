@@ -10,7 +10,6 @@ css: heart,quote,hearts_examples
 {% include hearts_examples.html name="048" %}
 {% include hearts_examples.html name="000" %}
 
-{% include hearts_examples.html name="054" %}
 {% include hearts_examples.html name="055" %}
 {% include hearts_examples.html name="056" %}
 
