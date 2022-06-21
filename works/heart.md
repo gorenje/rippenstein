@@ -24,7 +24,22 @@ It's locked away somewhere. No one has access to it. I'm fairly certain that thi
 
 So instead how about making your own heart and spreading some more happiness and inspiration?
 
-Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro). [Example hearts](/hearts/examples) are also available.
+Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro).
+
+## Examples
+
+{% include hearts_examples.html name="030" %}
+{% include hearts_examples.html name="019" %}
+{% include hearts_examples.html name="027" %}
+
+{% include hearts_examples.html name="007" %}
+{% include hearts_examples.html name="053" %}
+{% include hearts_examples.html name="043" %}
+
+<div style="clear: both; padding-top: 15px;">
+</div>
+
+[More examples](/hearts/examples).
 
 ## Making Of
 
