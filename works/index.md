@@ -1,6 +1,7 @@
 ---
 permalink: /works
 layout: worksindex
+title: Selected Works
 ---
 
 ## Gregorius Rippenstein Selected Works

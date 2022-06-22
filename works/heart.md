@@ -1,6 +1,7 @@
 ---
 permalink: /works/heart
 layout: with_name
+title: Priceless Hearts
 css: heart,quote
 ---
 
