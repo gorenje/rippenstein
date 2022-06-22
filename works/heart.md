@@ -75,31 +75,10 @@ The final step is adding the magnets on the back but you might not need that - d
 {% include in_the_wild.html name="in_the_wild_04" %}
 {% include in_the_wild.html name="in_the_wild_06" %}
 {% include in_the_wild.html name="in_the_wild_07" %}
-{% include in_the_wild.html name="in_the_wild_08" %}
-{% include in_the_wild.html name="in_the_wild_09" %}
-{% include in_the_wild.html name="in_the_wild_10" %}
-{% include in_the_wild.html name="in_the_wild_11" %}
-{% include in_the_wild.html name="in_the_wild_12" %}
-{% include in_the_wild.html name="in_the_wild_13" %}
-{% include in_the_wild.html name="in_the_wild_14" %}
-{% include in_the_wild.html name="in_the_wild_15" %}
-{% include in_the_wild.html name="in_the_wild_16" %}
-{% include in_the_wild.html name="in_the_wild_17" %}
-{% include in_the_wild.html name="in_the_wild_18" %}
-{% include in_the_wild.html name="in_the_wild_19" %}
-{% include in_the_wild.html name="in_the_wild_20" %}
-{% include in_the_wild.html name="in_the_wild_21" %}
-{% include in_the_wild.html name="in_the_wild_22" %}
-{% include in_the_wild.html name="in_the_wild_23" %}
-{% include in_the_wild.html name="in_the_wild_24" %}
-{% include in_the_wild.html name="in_the_wild_25" %}
-{% include in_the_wild.html name="in_the_wild_26" %}
-{% include in_the_wild.html name="in_the_wild_27" %}
-{% include in_the_wild.html name="in_the_wild_28" %}
-{% include in_the_wild.html name="in_the_wild_29" %}
-{% include in_the_wild.html name="in_the_wild_30" %}
 
-<div style="clear: both;"></div>
+<div style="clear: both; padding-top: 15px;"></div>
+
+[More images](/hearts/in_the_wild).
 
 There is also a [3D Model](https://sketchfab.com/3d-models/pyramid-heart-7f7d9c37b3284048a43b2b9f43726e28).
 
