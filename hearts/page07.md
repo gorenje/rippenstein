@@ -15,5 +15,7 @@ css: heart,quote,hearts_examples
 {% include hearts_examples.html name="067" %}
 
 {% include hearts_examples.html name="068" %}
+{% include hearts_examples.html name="069" %}
+{% include hearts_examples.html name="070" %}
 
 {% include hearts_navigation.html page="07" %}
