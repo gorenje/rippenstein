@@ -12,5 +12,11 @@ css: heart,quote,hearts_examples
 
 {% include in_the_wild.html name="in_the_wild_38" %}
 {% include in_the_wild.html name="in_the_wild_39" %}
+{% include in_the_wild.html name="in_the_wild_40" %}
+
+{% include in_the_wild.html name="in_the_wild_41" %}
+{% include in_the_wild.html name="in_the_wild_42" %}
+{% include in_the_wild.html name="in_the_wild_43" %}
+
 
 {% include hearts_in_the_wild_navigation.html page="04" %}
