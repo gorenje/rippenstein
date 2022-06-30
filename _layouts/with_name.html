@@ -77,6 +77,7 @@ function showImage(elem) {
   modalImg.srcset = elem.srcset;
   modalImg.src = elem.src;
   captionText.innerHTML = elem.alt;
+  document.location.hash = elem.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -85,7 +86,19 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
   modal.style.display = "none";
+  document.location.hash = "";
 }
+
+window.addEventListener('load', (event) => {
+  if ( document.location.hash != "" || document.location.hash != "#" ) {
+    document.body.querySelectorAll("img").forEach(function(elem) {
+      if ( ("#"+elem.alt) == document.location.hash ) {
+        showImage(elem)
+      }
+    })
+  }
+});
+
 </script>
   </body>
 </html>
