@@ -35,6 +35,12 @@
 
   <body>
     <div id="myModal" class="modal">
+      <span class="share">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16">
+          <path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/>
+        </svg>
+      </span>
+
       <span class="close">&times;</span>
       <img class="modal-content" id="img01">
       <div id="caption"></div>
@@ -80,13 +86,39 @@ function showImage(elem) {
   document.location.hash = elem.alt;
 }
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+function shareLink(content) {
+  try {
+    navigator.share({
+      title: "Priceless Hearts Project",
+      text: "Priceless Hearts Project @ rippenstein.art",
+      url: content
+    })
+  } catch ( e ) {
+    try {
+      var tempInput = document.createElement("input");
+      tempInput.style = "position: absolute; left: -1000px; top: -1000px";
+      tempInput.value = content;
+      document.body.appendChild(tempInput);
 
-// When the user clicks on <span> (x), close the modal
+      tempInput.select();
+      document.execCommand("copy");
+      document.body.removeChild(tempInput);
+      alert( "Link copied!" )
+    } catch ( e ) {
+      prompt("Share URL", content)
+    }
+  }
+}
+
+var span = document.getElementsByClassName("close")[0];
 span.onclick = function() {
   modal.style.display = "none";
   document.location.hash = "";
+}
+
+var span = document.getElementsByClassName("share")[0];
+span.onclick = function() {
+  shareLink(document.location)
 }
 
 window.addEventListener('load', (event) => {
