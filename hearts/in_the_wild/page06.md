@@ -15,6 +15,8 @@ css: heart,quote,hearts_examples
 {% include in_the_wild.html name="in_the_wild_58" %}
 
 {% include in_the_wild.html name="in_the_wild_59" %}
+{% include in_the_wild.html name="in_the_wild_60" %}
+{% include in_the_wild.html name="in_the_wild_61" %}
 
 
 {% include hearts_in_the_wild_navigation.html page="06" %}
