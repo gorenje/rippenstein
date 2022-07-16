@@ -5,11 +5,13 @@ title: Priceless Hearts
 css: heart,quote
 ---
 
-## Priceless Hearts
+## Heart
 
-If you got this far, then you might have found a heart that you can't buy. A priceless heart.
+If you got this far, then you might have found a heart that can't be purchased.
 
-{% include heart_image.html name="title-360.jpg" ovrcls="center" %}
+Priceless, non-purchasable heart. An item of meaning, substance and love.
+
+{% include heart_image.html name="title-360.jpg" %}
 
 Paper hearts are made to make you and others happy. To spread some love and happiness in times of hardship.
 
@@ -26,6 +28,8 @@ It's locked away somewhere. No one has access to it. I'm fairly certain that thi
 So instead how about making your own heart and spreading some more happiness and inspiration?
 
 Project [intentions are below](#about-the-project) and to support the project, you can make a [donation](/pay4pro).
+
+For something more commercial and consumer-friendly, try a malleable and purchasable [soul](/works/soul).
 
 ## Examples
 

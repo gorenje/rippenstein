@@ -97,6 +97,8 @@ img.in_the_wild:hover {opacity: 0.7;}
 }
 
 .center {
+    text-align: center !important;
+    float: none !important;
 }
 
 .heart_topleft {
