@@ -1,7 +1,7 @@
 ---
 permalink: /works/soul
 layout: with_name
-title: Priceless Hearts
+title: Purchasable Souls
 css: heart,quote
 ---
 
@@ -23,7 +23,7 @@ For a freely definable amount, [purchasable here](https://www.paypal.com/donate/
 
 ## Is the soul a butterfly?
 
-The soul is that caterpillar that grows inside of us. As it grews, we grew with it.
+The soul is that caterpillar that grows inside of us. As it grows, we grow with it.
 
 As the caterpillar begins its metamorphosis, our calling to change has come.
 
