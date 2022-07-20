@@ -40,3 +40,7 @@ Make that change before the caterpillar can escape, before the caterpillar becom
 <hr style="width: 70%">
 
 If you have a paper soul, you are holding an escaped soul. Give it back to someone who might be missing one.
+
+<hr style="width: 70%">
+
+Some [examples](/souls/examples).

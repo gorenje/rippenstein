@@ -1,0 +1,5 @@
+{%- if include.page == include.numpage %}
+[{{ include.numpage }}]
+{%- else %}
+<a href="/souls/examples/page{{ include.numpage }}">[{{ include.numpage }}]</a>
+{%- endif %}
