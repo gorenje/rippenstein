@@ -5,7 +5,7 @@ title: Priceless Hearts
 css: heart,quote
 ---
 
-## Heart
+## Heart and [Soul](/works/soul)
 
 If you got this far, then you might have found a heart that can't be purchased.
 
@@ -69,6 +69,8 @@ I melt one end of the pleastic so that the heart layers don't slide off. Then I 
 Once all hearts are layered, melt the other end of the plastic and voilà, the final product:
 
 {% include heart_image.html name="making_off_02-360.jpg"  %}
+
+{% include heart_image.html name="making_off_10-360.jpg" %}
 
 The final step is adding the magnets on the back but you might not need that - depending on your use case.
 

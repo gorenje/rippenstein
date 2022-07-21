@@ -5,7 +5,9 @@ title: Purchasable Souls
 css: heart,quote
 ---
 
-## Soul
+## [Heart](/works/heart) and Soul
+
+Cheap, malleable and purchasable - Souls aren't priceless, they are just expensive.
 
 {% include hearts_examples_frontpage.html name="140" %}
 
