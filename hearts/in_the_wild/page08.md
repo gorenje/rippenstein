@@ -8,6 +8,7 @@ css: heart,quote,hearts_examples
 
 {% include in_the_wild.html name="in_the_wild_72" %}
 {% include in_the_wild.html name="in_the_wild_73" %}
+{% include in_the_wild.html name="in_the_wild_74" %}
 
 
 {% include hearts_in_the_wild_navigation.html page="08" %}

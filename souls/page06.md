@@ -16,6 +16,7 @@ css: heart,quote,hearts_examples
 
 {% include souls_examples.html name="188" %}
 {% include souls_examples.html name="189" %}
+{% include souls_examples.html name="205" %}
 
 
 {% include souls_navigation.html page="06" %}
