@@ -7,8 +7,8 @@
 .worksection {
     position: fixed;
     top: 0;
-    left: 0;
     width: 100%;
+    max-width: 680px;
     padding-bottom: 10px;
     border-bottom: 1px solid #eee;
     background-color: #2f2c2c;
@@ -19,6 +19,7 @@
     display: flex;
     padding: 0px;
     width: 100%;
+    max-width: 680px;
 }
 
 .work_name {
@@ -60,6 +61,10 @@
         margin: 0 auto;
         width: 680px;
     }
+
+    .worksection {
+        align: center;
+    }
     .profile_image {
         height: 392px;
         width: 280px;
@@ -97,6 +102,9 @@
         margin: 0 auto;
         width: 100%;
     }
+    .worksection {
+        left: 0;
+    }
     .profile_image {
         height: 196px;
         width: 140px;
@@ -133,6 +141,9 @@
     #root {
         margin: 0 auto;
         width: 100%;
+    }
+    .worksection {
+        left: 0;
     }
     .profile_image {
         height: 196px;
@@ -172,6 +183,9 @@
     #root {
         margin: 0 auto;
         width: 320px;
+    }
+    .worksection {
+        left: 0;
     }
     .profile_image {
         height: 100%;
