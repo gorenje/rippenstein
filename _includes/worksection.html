@@ -1,18 +1,31 @@
 {% assign data = include.data %}
 
 <div class="worksection">
+  {% if data.offsiteurl %}
   <a href="{{ data.offsiteurl }}">
-  <div class="works_image_container">
-    <img src="{{ data.image }}" class="works_image"/>
-  </div>
+    {% endif %}
 
-  <div class="works_text_container">
-     <div class="row">
-    <div class="work_slogan">{{ data.slogan }}</div>
-  </div>
-     <div class="row">
-    <div class="work_name">{{ data.name }}</div>
-  </div>
-  </div>
-</a>
+    <div class="works_image_container">
+      <img src="{{ data.image }}" class="works_image"/>
+    </div>
+
+    <div class="works_text_container row">
+      <div class="row">
+        <div class="work_slogan">{{ data.slogan }}</div>
+      </div>
+      <div class="row">
+        <div class="work_name">{{ data.name }}</div>
+      </div>
+    </div>
+  {% if data.offsiteurl %}
+  </a>
+  {% endif %}
 </div>
+{% if data.audio %}
+<div class="audio_player" style="position: fixed; width: 400px; height: 40px;">
+  <audio controls preload="metadata" style="width: 400px; height: 40px;">
+	  <source src="{{ data.audio }}?cb={{ "now" | date: "%s" }}" type="audio/mpeg">
+	    Your browser does not support the audio element.
+  </audio>
+</div>
+{% endif %}

@@ -1,6 +1,6 @@
 ---
 permalink: /nowar
-layout: with_name
+layout: with_name_without_modal
 ---
 
 ## No War.

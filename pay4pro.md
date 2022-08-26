@@ -1,6 +1,6 @@
 ---
 permalink: /pay4pro
-layout: with_name
+layout: with_name_without_modal
 ---
 
 ## Pay for Procrastination Technology
