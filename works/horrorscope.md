@@ -1,6 +1,7 @@
 ---
 permalink: /works/horrorscope
 layout: works
+title: Horrorscopes
 ---
 
 {% assign data=site.data.works.horrorscope %}

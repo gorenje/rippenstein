@@ -1,6 +1,7 @@
 ---
 permalink: /works/sfts
 layout: works
+title: Sounds from the Scape
 css: with_audio
 ---
 

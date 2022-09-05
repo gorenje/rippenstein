@@ -1,6 +1,7 @@
 ---
 permalink: /works/slider
 layout: works
+title: Gender Slider
 ---
 
 {% assign data=site.data.works.sldr %}

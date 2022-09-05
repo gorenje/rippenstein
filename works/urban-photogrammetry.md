@@ -1,6 +1,7 @@
 ---
 permalink: /works/urban-photogrammetry
 layout: works
+title: Urban Photogrammetry
 ---
 
 {% assign data=site.data.works.up %}
