@@ -1,22 +1,24 @@
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:locale" content="en_AU" />
-<link rel="canonical" href="https://gregorius.rippenstein.art{{ include.url }}" />
 <meta property="og:url" content="https://gregorius.rippenstein.art{{ include.url }}"/>
 <meta property="og:site_name" content="gregorius.rippenstein.art" />
-<meta name="twitter:card" content="summary" />
+<link rel="canonical" href="https://gregorius.rippenstein.art{{ include.url }}" />
 
 {%- if include.title %}
   {%- if include.title != "" %}
     <title>{{ include.title }} | Gregorius Rippenstein</title>
     <meta property="twitter:title" content="{{ include.title }} | Gregorius Rippenstein" />
     <meta property="og:title" content="{{ include.title }} | Gregorius Rippenstein" />
+    <meta name="twitter:card" content="{{ include.title }} | Gregorius Rippenstein" />
   {%- else %}
     <title>Gregorius Rippenstein</title>
     <meta property="twitter:title" content="Gregorius Rippenstein" />
     <meta property="og:title" content="Gregorius Rippenstein" />
+    <meta name="twitter:card" content="Gregorius Rippenstein" />
   {%- endif %}
 {%- else %}
     <title>Gregorius Rippenstein</title>
     <meta property="twitter:title" content="Gregorius Rippenstein" />
     <meta property="og:title" content="Gregorius Rippenstein" />
+<meta name="twitter:card" content="Gregorius Rippenstein" />
 {%- endif %}
