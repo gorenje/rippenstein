@@ -60,3 +60,37 @@ Hence these soundscapes are not designed to be everyones musical taste, they mig
 ## Support
 
 If you have made this far, thanks for reading. If you want to support the project or purchase a soundscape, checkout [Soundcloud](https://soundcloud.com/user-47380021) for samples and [Gumroad](https://rippenstein.gumroad.com/) for purchasing. Donations are also [very much acceptable](/pay4pro).
+
+## Postscriptum
+
+This passage in [Douglas Adams' Dirk Gently Holistic Detective Agency](https://www.you-books.com/book/D-Adams/Dirk-GentlyS-Holistic-Detective-Agency) also talks about music and the relevance to the conscious. Ironically I am quoting the book as it quotes a fictive magazine, so this then becomes a double-quote (pun intended):
+
+> We know, however, that the mind is capable of understanding these matters in all their complexity and in all their simplicity. A ball flying through the air is responding to the force and direction with which it was thrown, the action of gravity, the friction of the air which it must expend its energy on overcoming, the turbulence of the air around its surface, and the rate and direction of the ball's spin.
+
+> And yet, someone who might have difficulty consciously trying to work out what 3 x 4 x 5 comes to would have no trouble in doing differential calculus and a whole host of related calculations so astoundingly fast that they *can actually catch a flying ball*. People who call this 'instinct' are merely giving the phenomenon a name, not explaining anything.
+
+> I think that the closest that human beings come to expressing our understanding of these natural complexities is in music. It is the most abstract of the arts - it has no meaning or purpose other than to be itself.
+
+> Every single aspect of a piece of music can be represented by numbers. From the organisation of movements in a whole symphony, down through the patterns of pitch and rhythm that make up the melodies and harmonies, the dynamics that shape the performance, all the way down to the timbres of the notes themselves, their harmonics, the way they change over time, in short, all the elements of a noise that distinguish between the sound of one person piping on a piccolo and another one thumping a drum - all of these things can be expressed by patterns and hierarchies of numbers.
+
+> And in my experience the more internal relationships there are between the patterns of numbers at different levels of the hierarchy, however complex and subtle those relationships may be, the more satisfying and, well, whole, the music will seem to be.
+
+> In fact the more subtle and complex those relationships, and the further they are beyond the grasp of the conscious mind, the more the instinctive part of your mind - by which I mean that part of your mind that can do differential calculus so astoundingly fast that it will put your hand in the right place to catch a flying ball - the more that part of your brain revels in it.
+
+> Music of any complexity (and even 'Three Blind Mice' is complex in its way by the time someone has actually performed it on an instrument with its own individual timbre and articulation) passes beyond your conscious mind into the arms of your own private mathematical genius who dwells in your unconscious responding to all the inner complexities and relationships and proportions that we think we know nothing about.
+
+> Some people object to such a view of music, saying that if you reduce music to mathematics, where does the emotion come into it? I would say that it's never been out of it.
+
+> The things by which our emotions can be moved - the shape of a flower or a Grecian urn, the way a baby grows, the way the wind brushes across your face, the way clouds move, their shapes, the way light dances on the water, or daffodils flutter in the breeze, the way in which the person you love moves their head, the way their hair follows that movement, the curve described by the dying fall of the last chord of a piece of music - all these things can be described by the complex flow of numbers.
+
+> That's not a reduction of it, that's the beauty of it.
+
+This quote comes from Chapter 19 and is included in the fictive magazine [Fathom](https://dirkgently.fandom.com/wiki/Fathom) and was written by [Richard MacDuff](https://dirkgently.fandom.com/wiki/Richard_MacDuff_(Adams)).
+
+Two things stand out for me in this quote, one is the description of the unconscious as being that part of the brain that is doing the complex calculus to catch the ball. Exactly that fascinates me about the subconscious (or unconscious, for me same-same), that it has all these abilities to coordinate muscles, perform complex calculations and all sorts of other abilities leaving our conscious to idle around and push off commands to the unconscious.
+
+For me, just as we can say to to our unconscious *I want to drink a glass of water* and the unconscious will coordinate all the muscles to make that happen, so we can also give the subconscious questions that it will *eventually* resolve, for example: *what is the question for answer 42*? The only caveat is that we don't know how long the unconscious will take to resolve those questions, or if it ever will.
+
+An example of this is forgetting someones' name. You suddenly find yourself thinking about someone and then you notice you have forgotten their name. No matter how long you think about, you just can't remember the name. So you leave it to your unconscious and distract your conscious with something else. Eventually the name will pop into your head. Was that some sort of channeling the afterlife or was it simply your unconscious coming up with the solution to the question: *what is the name of so-and-so*?
+
+Secondly I found the description of the complexity of music speaking directly to the unconscious completely contra to what I have been describing, my attention is to distract the conscious, what MacDuff/Douglas is saying that musical complexity actually entertains the unconscious. Whatever is the case, the affect is the same: my mind is clear and I can focus on whatever task I intend to perform.
