@@ -2,14 +2,14 @@
 permalink: /works/sfts
 layout: works
 title: Sounds from the Scape
-css: with_audio
 ---
 
 {% assign data=site.data.works.sfts %}
 {% include worksection.html data=data %}
 
-Ever since I've been a little child playing with sticks, hitting leaves and listening to the rustling of the wind in the wild, deep forests during those dry hot summer days, I have been dreaming of creating soundscapes with massively large and dependable computing equipment. The kind of equipment that is built to look incredibly badly designed so as to show off its functionality. Swamped with vacuum tubes, standing quietly in the corner humming to itself and collecting dust. This equipment has ceased in its endeavours to collect dust as it has been replaced by similar badly designed equipment running with stupefyingly fast processors that produce more heat than light.
+*A Menagerie of Sounds*
 
+Ever since I've been a little child playing with sticks, hitting leaves and listening to the rustling of the wind in the wild, deep forests during those dry hot summer days, I have been dreaming of creating soundscapes with massively large and dependable computing equipment. The kind of equipment that is built to look incredibly badly designed so as to show off its functionality. Swamped with vacuum tubes, standing quietly in the corner humming to itself and collecting dust. This equipment has ceased in its endeavours to collect dust as it has been replaced by similar badly designed equipment running with stupefyingly fast processors that produce more heat than light.
 
 My desire to create the perfect soundscape to accompany my day dreams while working in an office never dissipated and I always have kept that dream alive. It took many iterations, each sounding quite similar to a rusty nail being polished, to finally find a piece of software capable of fulfilling my dream. This dream began with a Unix shell-script and some C code, continued in the exploration of unexplored wild-west like frontier of the internet, finally ending the recesses of a collider built into the side of a virtualised supertanker.
 

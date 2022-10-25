@@ -1,0 +1,43 @@
+hr.tabootiles {
+    margin: 5px;
+}
+
+img.tabootiles_image {
+  display: block;
+  width: 100%;
+	padding: 5px;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+@media only screen and (min-width: 680px) {
+	img.tabootiles_image {
+		display: block;
+		float: left;
+		width: 30%;
+	}
+}
+
+@media only screen and (max-width: 680px) {
+	img.tabootiles_image {
+		display: block;
+		float: left;
+		width: 45%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	img.tabootiles_image {
+		display: block;
+		float: left;
+		width: 45%;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	img.tabootiles_image {
+		display: block;
+		float: left;
+		width: 100%;
+	}
+}

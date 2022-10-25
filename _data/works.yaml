@@ -77,4 +77,34 @@ sfts:
   image: /f/i/sfts.png
   soundcloud: https://soundcloud.com/user-47380021
   gumroad: https://rippenstein.gumroad.com/
-  audio: /f/sounds_from_the_scape_audio.mp3
+
+tabootiles:
+  name: "Taboo Tiles"
+  url: /works/taboo-tiles
+  slogan: "Written words endure, Read words fade."
+  image: /f/i/tt-white.png
+  tiles:
+    mj:
+      title: "Missing Jesus"
+    al:
+      title: "Artists Inc. Ltd."
+    cb:
+      title: "Collateral Ballast"
+    ll:
+      title: "Lost Luggage"
+    bh:
+      title: "Buddhism"
+    bb:
+      title: "Blabla is bad"
+    da:
+      title: "Digital adbusting"
+    dx:
+      title: "Daddy X"
+    it:
+      title: "Individualising Technology"
+    fa:
+      title: "fame"
+    jd:
+      title: ""
+    tt:
+      title: "taboo tiles"

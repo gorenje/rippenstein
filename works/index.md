@@ -6,6 +6,7 @@ title: Selected Works
 
 ## Gregorius Rippenstein Selected Works
 
+{% include work.html data=site.data.works.tabootiles %}
 {% include work.html data=site.data.works.sfts %}
 {% include work.html data=site.data.works.heart %}
 {% include work.html data=site.data.works.hamoni %}
