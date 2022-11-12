@@ -84,6 +84,8 @@ tabootiles:
   slogan: "Written words endure, Read words fade."
   image: /f/i/tt-white.png
   tiles:
+    cs:
+      title: "Climate Suicide"
     mj:
       title: "Missing Jesus"
     al:
@@ -106,5 +108,7 @@ tabootiles:
       title: "silent paradox"
     jd:
       title: ""
+    fa:
+      title: "Fame"
     tt:
       title: "taboo tiles"
