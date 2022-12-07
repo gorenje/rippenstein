@@ -1,15 +1,15 @@
 ---
 permalink: /works/sfts
 layout: works
-title: Sounds from the Scape
+title: A Menagerie of Sounds
 ---
 
 {% assign data=site.data.works.sfts %}
 {% include worksection.html data=data %}
 
-*A Menagerie of Sounds*
+<a href="https://github.com/gorenje/sfts/releases/tag/v0.0.1">[Download for Mac]</a>
+<a href="https://github.com/gorenje/sfts">[GitHub/Code]</a>
 
-<a href="https://github.com/gorenje/rippenstein/releases/download/release_sfts/SoundsFromTheScape.app.zip">Download for Mac</a>
 
 Ever since I've been a little child playing with sticks, hitting leaves and listening to the rustling of the wind in the wild, deep forests during those dry hot summer days, I have been dreaming of creating soundscapes with massively large and dependable computing equipment. The kind of equipment that is built to look incredibly badly designed so as to show off its functionality. Swamped with vacuum tubes, standing quietly in the corner humming to itself and collecting dust. This equipment has ceased in its endeavours to collect dust as it has been replaced by similar badly designed equipment running with stupefyingly fast processors that produce more heat than light.
 
