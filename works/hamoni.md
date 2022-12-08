@@ -1,5 +1,6 @@
 ---
 permalink: /works/hamoni
+title: Musical Matching Mates
 layout: works
 date: 2022-12-20 00:00:00 +0000
 image: /f/i/hamoni.png
