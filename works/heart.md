@@ -3,6 +3,8 @@ permalink: /works/heart
 layout: with_name
 title: Priceless Hearts
 css: heart,quote
+date: 2022-12-21 00:00:00 +0000
+image: /f/i/heart.png
 ---
 
 ## Heart and [Soul](/works/soul)

@@ -2,6 +2,8 @@
 permalink: /works/horrorscope
 layout: works
 title: Horrorscopes
+date: 2022-12-15 00:00:00 +0000
+image: /f/i/horrorscope.png
 ---
 
 {% assign data=site.data.works.horrorscope %}

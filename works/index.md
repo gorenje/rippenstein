@@ -2,6 +2,8 @@
 permalink: /works
 layout: worksindex
 title: Selected Works
+date: 2022-12-12 00:00:00 +0000
+image: /f/i/gregorius-rippenstein-square.jpeg
 ---
 
 ## Gregorius Rippenstein Selected Works

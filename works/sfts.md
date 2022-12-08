@@ -2,6 +2,8 @@
 permalink: /works/sfts
 layout: works
 title: A Menagerie of Sounds
+date: 2022-12-22 00:00:00 +0000
+image: /f/i/sfts.png
 ---
 
 {% assign data=site.data.works.sfts %}

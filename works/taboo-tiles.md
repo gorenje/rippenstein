@@ -3,6 +3,8 @@ permalink: /works/taboo-tiles
 layout: works
 title: Taboo Tiles
 css: tabootiles
+date: 2022-12-23 00:00:00 +0000
+image: /f/i/tt-white.png
 ---
 
 {% assign data=site.data.works.tabootiles %}

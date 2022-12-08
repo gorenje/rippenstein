@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Makefile
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - empty.xml
+
+author:
+  name: Gregorius Rippenstein
+  email: gregorius@rippenstein.art
+  uri: https://gregorius.rippenstein.art
+
+title: Rippenstein.art
+description: "How can I be an artist without being art myself."
+
+feed:
+  tags: true
+  path: "/empty.xml"
+  posts_limit: 10
+  collections:
+    pages:
+      path: "/feed.xml"

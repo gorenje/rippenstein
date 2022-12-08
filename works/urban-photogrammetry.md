@@ -2,6 +2,8 @@
 permalink: /works/urban-photogrammetry
 layout: works
 title: Urban Photogrammetry
+date: 2022-12-19 00:00:00 +0000
+image: /f/i/urban-photogrammetry.png
 ---
 
 {% assign data=site.data.works.up %}

@@ -1,6 +1,8 @@
 ---
 permalink: /works/hamoni
 layout: works
+date: 2022-12-20 00:00:00 +0000
+image: /f/i/hamoni.png
 ---
 
 {% assign data=site.data.works.hamoni %}

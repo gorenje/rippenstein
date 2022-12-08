@@ -2,6 +2,8 @@
 permalink: /works/slider
 layout: works
 title: Gender Slider
+date: 2022-12-18 00:00:00 +0000
+image: /f/i/slider.png
 ---
 
 {% assign data=site.data.works.sldr %}

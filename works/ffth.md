@@ -1,6 +1,8 @@
 ---
 permalink: /works/ffth
 layout: works
+date: 2022-12-16 00:00:00 +0000
+image: /f/i/millieons.png
 ---
 
 {% assign data=site.data.works.ffth %}

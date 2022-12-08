@@ -1,6 +1,9 @@
 ---
 permalink: /works/sevennines
 layout: works
+title: Seven Nines of Insignificance
+date: 2022-12-17 00:00:00 +0000
+image: /f/i/7x9.png
 ---
 
 {% assign data=site.data.works.ninetynine %}
