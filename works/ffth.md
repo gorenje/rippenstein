@@ -3,7 +3,7 @@ permalink: /works/ffth
 title: Fables from the Hood
 layout: works
 date: 2022-12-16 00:00:00 +0000
-image: /f/i/ffth.svg
+image: /f/i/ffth.png
 ---
 
 {% assign data=site.data.works.ffth %}
