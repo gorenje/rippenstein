@@ -40,6 +40,24 @@ And follows up with:
 
 *Danger:* Predicting the future is not about being right tomorrow, it's about convincing someone today.
 
+## Interested?
+
+Thanks to [ChatGPT](https://chat.openai.com/chat), an investment opportunity has opened:
+
+> Dear Investors,
+
+> We are excited to introduce DarkHorizons, a new venture that combines the ancient art of astrology with the thrilling world of horror. Our team of skilled writers will create daily, weekly, and monthly HorrorScopes for all 12 astrological signs, infusing each prediction with a touch of the supernatural and the terrifying.
+
+> Our unique approach to horoscopes will set us apart from the competition and appeal to a wide audience of horror fans and astrology enthusiasts alike. We plan to distribute our HorrorScopes through a combination of online platforms, including our own website and social media channels, as well as through partnerships with popular horror websites and magazines.
+
+> We are seeking funding to support the development and launch of our company. Our team has extensive experience in astrology, writing, and the horror genre, and we are confident in our ability to create a successful and profitable business. We have outlined a detailed business plan and budget, which is included in the attached documents.
+
+> We appreciate your consideration and look forward to the opportunity to discuss our proposal further.
+
+> Sincerely,<br>
+> Gregorius Rippenstein<br>
+> Founder, DarkHorizons Pty. Ltd.
+
 <script type="text/javascript">
 var add0 = function(r){ return (r < 10 ? "0" : "") + r; }
 
