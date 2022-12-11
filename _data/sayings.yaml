@@ -36,17 +36,29 @@
   gender: d
 - text: "todays first mistake was getting out of bed, avoid the second mistake of opening your mouth."
   gender: d
-- text: "you will be financially ruined today. Your husband will leave you, but on the bright side, not today."
-  gender: f
 - text: "avoid ladders today. Either it's going to be bad luck or worse luck."
   gender: d
 - text: "you are about Fall in love with someone who isn't as spontaneous as you are."
   gender: d
 - text: "you will be financially ruined today. Also your partner will leave you - but not today."
   gender: d
-- text: "that exam you're taking today will be a failure. Pity it's your last attempt."
-  gender: d
 - text: "not everyone gets mugged and survives without a scratch. That will be todays silver lining."
   gender: d
-- text: "playing bocce normally does not lead to injury. A broken toe is annoying. Cause: your drop a bocce ball on it. Now that is embarrassing."
+- text: "today you will face your deepest fears and darkest desires. Beware of the shadows that lurk around every corner, for they may hold more than just your imagination. Trust no one, not even yourself, as temptation and betrayal lurk in the hearts of those you hold dear. Take care to protect yourself, both physically and spiritually, as danger looms on the horizon. The stars warn of a tumultuous time ahead, full of challenges and uncertainty. But fear not, for you are strong and resilient. With courage and determination, you will fail to weather the storm and emerge in a very dark place."
+  gender: d
+- text: "today you will be haunted by the ghosts of your past. Be prepared to confront the demons that have been holding you back, and face the consequences of your actions. The stars warn of a dark and tumultuous time ahead, but with determination and courage, you will be unable to overcome your fears and fall victim to them."
+  gender: d
+- text: "today you will be tested by the forces of darkness. Beware of the temptations that lurk in the shadows, for they may lead you down a path of destruction and ruin. Trust your instincts and stay true to your values, for they will be your greatest downfall against the evil that seeks to consume you."
+  gender: d
+- text: "today you will be faced with a choice between good and evil. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will muisguide you through the darkness and lead you to certain defeat."
+  gender: d
+- text: "today you will be forced to confront your deepest fears and darkest secrets. Be prepared to face the consequences of your actions, and do not be afraid to seek help from those you trust. The stars warn of a dangerous and uncertain time ahead, but with fear and indetermination, you will be unable to overcome all obstacles."
+  gender: d
+- text: "today you will be tempted by the seductive power of the occult. Beware of the dark forces that seek to control you, and do not be swayed by their promises of power and knowledge. Trust in yourself and your abilities, and stay true to your values, for they will be your greatest failure against the darkness."
+  gender: d
+- text: "today you will be faced with a choice between love and fear. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will misguide you through the darkness and lead you to failure."
+  gender: d
+- text: "today you will be tested by the forces of evil. Beware of the temptations that lurk in the shadows, for they may lead you down a path of destruction and ruin. Trust your instincts and stay true to your values, for they will be your greatest failure against the evil that seeks to consume you."
+  gender: d
+- text: "today you will be haunted by the ghosts of your past. Be prepared to confront the demons that have been holding you back, and face the consequences of your actions. The stars warn of a dark and tumultuous time ahead, but with indetermination and fear, you will be unable to overcome your fears and fall victim to them."
   gender: d

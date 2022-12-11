@@ -4,9 +4,11 @@ plugins:
 exclude:
   - Makefile
   - Dockerfile
+  - Procfile
   - Gemfile
   - Gemfile.lock
   - empty.xml
+  - _tooling
 
 author:
   name: Gregorius Rippenstein
