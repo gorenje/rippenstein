@@ -1,48 +1,18 @@
-- text: "your partner will leave you. But at least you get to continue paying the mortgage on the house."
+- text: "what were you thinking last night? Well at least no one got hurt."
   gender: d
-- text: "your car will be stolen today. Good news it's going to be dumped into a river near your home."
+- text: "avoid anything with electricity today."
   gender: d
-- text: "today your partner will start an affair. Not much else to say really."
-  gender: d
-- text: "you won't win the lottery today, nor, in fact, ever. Best stop playing. But you do know what will happen then..."
-  gender: d
-- text: "some things are best left untouched. Avoid the kitchen today else you will burn yourself."
-  gender: d
-- text: "the only thing that will rise for you today is the sun. But your partner will still be getting theirs."
-  gender: m
-- text: "avoid getting home too early tonight, the postman hasn't got any letters for you."
-  gender: d
-- text: "what were you thinking last night? Well at least no one got hurt - which won't be the case today."
-  gender: d
-- text: "avoid anything with electricity today. But then again you are so clumsy."
-  gender: d
-- text: "today is not the day for outdoor activities. However most accidents happen at home, just as in your case."
+- text: "today is not the day for outdoor activities. However most accidents happen at home."
   gender: d
 - text: "don't worry today won't be as bad as yesterday, it will be worse."
   gender: d
-- text: "today you will discover who your biological father is. And he will discover he has a child."
-  gender: d
-- text: "today your husband will announce that he is having children with your sister, the ugly sister."
-  gender: f
-- text: "today your wife will announce that she is having a child with your brother, the ugly brother."
-  gender: m
 - text: "today all windows are high enough. But it will only end with a broken leg."
   gender: d
 - text: "remember when you skipped all those swimming lessons? Today is a good day to stay *away* from water."
   gender: d
-- text: "be careful carrying metal objects today. Lightening, in your case, does strike twice."
-  gender: d
-- text: "your house will burn down today. Unfortunately the insurance expired last month."
-  gender: d
 - text: "todays first mistake was getting out of bed, avoid the second mistake of opening your mouth."
   gender: d
 - text: "avoid ladders today. Either it's going to be bad luck or worse luck."
-  gender: d
-- text: "you are about Fall in love with someone who isn't as spontaneous as you are."
-  gender: d
-- text: "you will be financially ruined today. Also your partner will leave you - but not today."
-  gender: d
-- text: "not everyone gets mugged and survives without a scratch. That will be todays silver lining."
   gender: d
 - text: "today you will face your deepest fears and darkest desires. Beware of the shadows that lurk around every corner, for they may hold more than just your imagination. Trust no one, not even yourself, as temptation and betrayal lurk in the hearts of those you hold dear. Take care to protect yourself, both physically and spiritually, as danger looms on the horizon. The stars warn of a tumultuous time ahead, full of challenges and uncertainty. But fear not, for you are strong and resilient. With courage and determination, you will fail to weather the storm and emerge in a very dark place."
   gender: d
@@ -50,15 +20,74 @@
   gender: d
 - text: "today you will be tested by the forces of darkness. Beware of the temptations that lurk in the shadows, for they may lead you down a path of destruction and ruin. Trust your instincts and stay true to your values, for they will be your greatest downfall against the evil that seeks to consume you."
   gender: d
-- text: "today you will be faced with a choice between good and evil. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will muisguide you through the darkness and lead you to certain defeat."
+- text: "today you will be faced with a choice between good and evil. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will misguide you through the darkness and lead you to certain failure."
   gender: d
-- text: "today you will be forced to confront your deepest fears and darkest secrets. Be prepared to face the consequences of your actions, and do not be afraid to seek help from those you trust. The stars warn of a dangerous and uncertain time ahead, but with fear and indetermination, you will be unable to overcome all obstacles."
+- text: "today you will be forced to confront your deepest fears and darkest secrets. Be prepared to face the consequences of your actions, and do not be afraid to seek help from those you trust. The stars warn of a dangerous and uncertain time ahead, but with fear and indetermination, you will be unable to overcome any obstacles."
   gender: d
 - text: "today you will be tempted by the seductive power of the occult. Beware of the dark forces that seek to control you, and do not be swayed by their promises of power and knowledge. Trust in yourself and your abilities, and stay true to your values, for they will be your greatest failure against the darkness."
   gender: d
-- text: "today you will be faced with a choice between love and fear. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will misguide you through the darkness and lead you to failure."
+- text: "today you will be faced with a choice between love and fear. The stars warn of a battle between light and darkness, and the outcome will depend on the choices you make. Trust your heart and stay true to your values, for they will misguide you through the greyness and lead you to failure."
   gender: d
-- text: "today you will be tested by the forces of evil. Beware of the temptations that lurk in the shadows, for they may lead you down a path of destruction and ruin. Trust your instincts and stay true to your values, for they will be your greatest failure against the evil that seeks to consume you."
+- text: "today you will be tested by the forces of evil. Beware of the temptations that lurk in the shadows, for they may lead you down a path of destruction and ruin. Trust your instincts and stay true to your values, for they will be your greatest error against the evil that seeks to consume you."
   gender: d
 - text: "today you will be haunted by the ghosts of your past. Be prepared to confront the demons that have been holding you back, and face the consequences of your actions. The stars warn of a dark and tumultuous time ahead, but with indetermination and fear, you will be unable to overcome your fears and fall victim to them."
   gender: d
+- text: "you may be feeling a bit anxious or stressed today. Try to relax and take things one step at a time. Remember your are not the only one, stop complaining about it."
+  gender: d
+- text: "you are in a great position to make positive changes in your life. Take advantage of this opportunity to improve your health, relationships, and overall well-being. You must also realise that, as you read these lines, the opportunity has already slipped away. Just forget what was written here."
+  gender: d
+- text: "you may be feeling a bit overwhelmed by the demands of your daily life. It's normal. Take some time to prioritise your tasks and focus on what's most important. Be assured that it isn't watching television or doing social media: stop procrastinating."
+  gender: d
+- text: "your social life is likely to be active and vibrant today. You may have the opportunity to meet new people and expand your network. Your hard work and dedication is about to pay off in a big way. Keep pushing forward and don't give up, as you are on the verge of achieving your goals. Shame then, that your goals are pointless."
+  gender: d
+- text: "your communication skills are strong today, so make sure to express yourself clearly and assertively. You may have the opportunity to persuade others and make a positive impact. Your creativity is flowing, so make sure to take advantage of this by expressing yourself through art, music, or writing. You may come up with some truly innovative ideas. And to think that it's all wasted since you work in marketing with a touch of advertising on the side."
+  gender: d
+- text: "it's a good time to focus on your personal growth and development. Take some time to learn a new skill or hobby, and invest in yourself. An investment in yourself, like all your other investments, will not pay off."
+  gender: d
+- text: "your relationships are likely to be a source of support and encouragement today. Don't be afraid to lean in on other peoples partner and ask for help when you need it. You partner is not the person to lean on."
+  gender: d
+- text: "you may be feeling a bit lost or uncertain about your place in the world. Take some time to connect with your inner self and tune into your inner wisdom. What is your authentic self telling you? Nothing."
+  gender: d
+- text: "your creativity is flowing, so make sure to take advantage of this by exploring new ideas and perspectives. How can you use your talents to create a more just and equitable world? Start by purchasing something online, having it delivered by someone who is paid less than you."
+  gender: d
+- text: "your financial situation is likely to improve in the coming days. Keep an eye out for opportunities to make smart investments and grow your wealth. Because the more money you have, the happier you are - right?"
+  gender: d
+- text: "today is a great day to reflect on the deeper meaning and purpose of your life. What are your values and beliefs? How can you align your actions with these values to live a fulfilling life? It's OK if you can't think of anything."
+  gender: d
+- text: "it's a good time to explore the interconnectedness of all things. How do your actions and choices impact the world around you? What can you do to make a positive difference? It's OK if you can't think of anything."
+  gender: d
+- text: "your creativity is flowing, so make sure to take advantage of this by expressing yourself through art, music, or writing. You may come up with some truly innovative ideas. Oh, that's right you work in marketing, this does not apply to you."
+  gender: d
+- text: "you may be feeling a bit restless and unsure of which direction to take. Take some time to reflect on your goals and priorities, and make a plan to move forward. Perhaps you goal was to that plan, well done, you're done!"
+  gender: d
+- text: "today is a good day to focus on your finances and make any necessary budget adjustments. Look for opportunities to save money and invest wisely. Living on the street can be rewarding."
+  gender: d
+- text: "it's a good time to focus on your relationships and strengthen your connections with others. Be open and honest in your communication to foster trust and understanding. If the others don't listen, then don't worry about it."
+  gender: d
+- text: "today is a great day to start new projects and take on new challenges. Your enthusiasm and determination will help you overcome any obstacles that come your way. Except those administrative, taxational and bureaucratic obstacles, they will be too much."
+  gender: d
+- text: "it's a good time to reflect on your personal growth and development. What do you want to achieve in the coming months? What steps can you take to get there? If you can't think of anything, you are not alone."
+  gender: d
+- text: "your intuition is strong today, so trust your instincts and follow your heart. You may have a sudden insight or realisation that can guide you in making important decisions. Or then again, you might not even get out of bed."
+  gender: d
+- text: "today is a good day to focus on your spiritual growth and development. What practices can you incorporate into your daily life to deepen your connection with the divine? The divine is neither Jim Beam nor Jack Daniels."
+  gender: d
+- text: "you may be feeling a bit anxious or stressed today. Remember that you are not alone and that we are all part of the same universal consciousness. Take a deep breath and connect with the peace and calm that exists within you. No one believes this spiritual mumbo jumbo except ... oh, so sorry for you."
+  gender: d
+- text: "you are in a great position to make positive changes in your life. Remember that true happiness and fulfilment come from within, so focus on cultivating inner peace and contentment. Yes quite, you do that."
+  gender: d
+- text: "your relationships are likely to be a source of growth and learning today. Remember that every person you encounter is a teacher, so be open to learning from others and sharing your own wisdom. Yes even other people have wisdom not just you."
+  gender: d
+- text: "your communication skills are strong today, so make sure to use your words wisely. Remember that words have the power to build up or tear down, so choose them carefully and speak from the heart. What heart you ask yourself."
+  gender: d
+- text: "it's a good time to focus on your personal growth and development. How can you challenge yourself and push beyond your comfort zone to become a better person? What can you learn from your past experiences to inform your future choices? It's OK if there is a sudden emptiness in your head."
+  gender: d
+- text: "your intuition is strong today, so trust your inner guidance and let it lead you on your path. What messages is your higher self trying to send you? How can you use this guidance to make decisions that align with your true self? Mental silence is golden and should not be underestimated."
+  gender: d
+- text: "your financial situation is likely to improve in the coming days. Remember that money is a means to an end, not an end in itself. Use your financial abundance to support causes and people that are important to you. Even that cause is you yourself."
+  gender: d
+- text: "it's a good time to reflect on the impermanence of all things. How can you let go of attachments and live in the present moment? What can you do to cultivate a sense of gratitude and appreciation for all that you have? Get a pay raise since you deserve it."
+  gender: d
+- text: "Remember to celebrate your achievements, but also remember that true success is a journey, not a destination. Keep striving to be the best version of yourself. And remember there is an application for that."
+  gender: d
+  
