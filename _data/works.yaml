@@ -89,7 +89,7 @@ tabootiles:
     mj:
       title: "Missing Jesus"
     al:
-      title: "Artists Inc. Ltd."
+      title: "Artists Ltd. Inc."
     cb:
       title: "Collateral Ballast"
     ll:
@@ -105,10 +105,12 @@ tabootiles:
     it:
       title: "Individualising Technology"
     sp:
-      title: "silent paradox"
+      title: "Silent Paradox"
     jd:
-      title: ""
+      title: "Judgement"
     fa:
       title: "Fame"
+    mv:
+      title: "Missing Vote"
     tt:
       title: "taboo tiles"
